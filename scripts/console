@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+irb = RUBY_PLATFORM =~ /(:?mswin|mingw)/ ? 'irb.bat' : 'irb'
+
+require 'optparse'
+options = { :sandbox => false, :irb => irb }
+OptionParser.new do |opt|
+  opt.banner = "Usage: console [environment] [options]"
+  opt.on('-s', '--sandbox', 'Rollback database modifications on exit.') { |v| options[:sandbox] = v }
+  opt.on("--irb=[#{irb}]", 'Invoke a different irb.') { |v| options[:irb] = v }
+  opt.parse!(ARGV)
+end
+
+libs =  " -r irb/completion"
+libs << " -r lib/rfeedfinder.rb"
+
+exec "#{options[:irb]} #{libs} --simple-prompt"

@@ -1,0 +1,44 @@
+h1. rfeedfinder
+
+h2. What
+
+rFeedFinder uses RSS autodiscovery, Atom autodiscovery, spidering, URL correction, and Web service queries (whatever it takes) to find the feed.
+
+From "Aaron Swartz feedfinder python lib":http://www.aaronsw.com/2002/feedfinder/.
+
+h2. Installing
+
+<pre syntax="ruby">sudo gem install rfeedfinder</pre>
+
+h2. Demonstration of usage
+
+<pre syntax="ruby">
+require 'rfeedfinder'
+
+Rfeedfinder.feed('scripting.com')
+# return String: 'http://scripting.com/rss.xml'
+
+Rfeedfinder.feeds('scripting.com')
+# return Array: ['http://delong.typepad.com/sdj/atom.xml', 
+#		 		'http://delong.typepad.com/sdj/index.rdf', 
+#				'http://delong.typepad.com/sdj/rss.xml']
+</pre>
+
+
+h2. Forum
+
+"http://groups.google.com/group/rfeedfinder":http://groups.google.com/group/rfeedfinder
+
+h2. How to submit patches
+
+Read the "8 steps for fixing other people's code":http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/ and for section "8b: Submit patch to Google Groups":http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/#8b-google-groups, use the Google Group above.
+
+The trunk repository is <code>svn://rubyforge.org/var/svn/rfeedfinder/trunk</code> for anonymous access.
+
+h2. License
+
+This code is free to use under the terms of the "Creative Commons GNU GPL":http://creativecommons.org/licenses/GPL/2.0/. 
+
+h2. Contact
+
+Comments are welcome. Send an email to "Alexandre Girard":mailto:alx.girard@gmail.com.

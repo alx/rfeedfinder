@@ -1,0 +1,16 @@
+History.txt
+License.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/rfeedfinder.rb
+lib/rfeedfinder/version.rb
+scripts/txt2html
+setup.rb
+test/test_helper.rb
+test/test_rfeedfinder.rb
+website/index.html
+website/index.txt
+website/javascripts/rounded_corners_lite.inc.js
+website/stylesheets/screen.css
+website/template.rhtml
