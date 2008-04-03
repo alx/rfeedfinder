@@ -141,4 +141,8 @@ class TestRfeedfinder < Test::Unit::TestCase
   def test_bbva
     feed_finder "http://prueba.bbvablogs.com/feed/"
   end
+  
+  def test_nytimes
+    feed_finder "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  end
 end

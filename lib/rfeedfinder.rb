@@ -39,6 +39,7 @@ module Rfeedfinder
     data.search(regexp).map!{|link| 
       if !link.to_s.strip.empty? and link.kind_of? Hpricot::Elem and !(link.kind_of? Hpricot::Text)
         uri = link[:href].to_s
+        uri = link[:HREF].to_s if uri.empty?
         uri = link[:src].to_s if uri.empty?
         uri = link[:SRC].to_s if uri.empty?
         if !uri.strip.empty? and uri !~ /^javascript/
@@ -96,6 +97,7 @@ module Rfeedfinder
 
   def isFeedData?(data)
     # if no html tag and rss, rdf or feed tag, it's a feed
+    puts data
     return ((data/"html|HTML").empty? and (!(data/:rss).nil? or !(data/:rdf).nil? or !(data/:feed).nil?))
   end
 
@@ -152,6 +154,9 @@ module Rfeedfinder
       verifyRedirect(feedlist)
       return feedlist
     end
+    
+    puts "not feed data"
+    return nil
     
     #verify redirection
     newuri = tryBrokenRedirect(data)
