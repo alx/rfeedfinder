@@ -1,4 +1,4 @@
-module Rfeedfinder #:nodoc:
+class Rfeedfinder #:nodoc:
   module VERSION #:nodoc:
     MAJOR = 0
     MINOR = 9
