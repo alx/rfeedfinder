@@ -137,33 +137,9 @@ class Rfeedfinder
         end
       end
     }
-
-    # TODO: fix so if the user only wants one feed
-    # then we don't download all the feeds
-    # options[:only_first] == true ...
     
     # nope, it's a page, try LINK tags first
-    outfeeds = Rfeedfinder.getLinks(data, fulluri).select do |link| 
-      if options[:only_first]
-        # We only want the first url which leeds to a feed
-        # We don't want to call isFeed? to often, 
-        # because it initiates a download
-        if options[:already_found_one]
-          # return false so we don't include any more link
-          false
-        else
-          if Rfeedfinder.isFeed?(link, options)
-            options[:already_found_one] = true
-            true
-          else
-            false
-          end
-        end
-      else
-        # Do as normal
-        Rfeedfinder.isFeed?(link, options)
-      end
-    end
+    outfeeds = Rfeedfinder.getLinks(data, fulluri).select {|link| Rfeedfinder.isFeed?(link, options)}
       
     #_debuglog('found %s feeds through LINK tags' % len(outfeeds))
     if outfeeds.empty?
@@ -308,6 +284,11 @@ class Rfeedfinder
   # * +false+ if not
   # 
   def self.isFeed?(uri, options)
+    # We return false if the user only wants one result
+    # and we already have found it so there aren't made
+    # any additional external calls
+    return false if options[:only_first] and options[:already_found_one]
+    
     uri.gsub!(/\/\/www\d\./, "//www.")
     begin
       protocol = URI.split(uri)
@@ -320,7 +301,12 @@ class Rfeedfinder
     data = Rfeedfinder.open_doc(uri, options)
     return false if data.nil?
     
-    return Rfeedfinder.isFeedData?(data)
+    if Rfeedfinder.isFeedData?(data)
+      options[:already_found_one] = true if options[:only_first]
+      return true
+    else
+      return false
+    end
   end
 
   protected

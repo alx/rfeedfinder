@@ -4,7 +4,7 @@
 	<title>Flickr: Fotos de Alx</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="keywords" content="fotografía, fotografía digital, teléfonos con cámara, cámara, fotografía como pasatiempo, foto, cámara digital, compactflash, smartmedia, cámaras, canon, nikon, olympus, fujifilm">	
-	<meta name="description" content="Flickr es casi con seguridad la mejor aplicación de todo el mundo para administrar y compartir fotos en línea. Presume de tus fotos favoritas ante el mundo, muéstrales fotos a tus familiares y amigos con seguridad y privacidad, o publica en un blog las fotos que tomas con un teléfono con cámara.">
+	<meta name="description" content="Flickr es casi con seguridad la mejor aplicación de el mundo para administrar y compartir fotos en línea. Presume de tus fotos favoritas ante el mundo, muéstrales fotos a tus familiares y amigos con seguridad y privacidad, o publica en un blog las fotos que tomas con un teléfono con cámara.">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta name="viewport" content="width=820" />
 	<link href="http://l.yimg.com/www.flickr.com/css/c_flickr.css.v1.818.14" rel="stylesheet" type="text/css">
@@ -157,7 +157,8 @@ if (/WebKit/i.test(navigator.userAgent)) { // sniff
 
 
 
-<link rel="openid2.provider" href="https://open.login.yahooapis.com/openid/op/auth" /></head>
+
+<link rel="openid2.provider" href="https://open.login.yahooapis.com/openid/op/auth" /></head>
 
 <body>
 
@@ -167,7 +168,8 @@ if (/WebKit/i.test(navigator.userAgent)) { // sniff
 
 
 
-
+
+
 
 
 
@@ -433,15 +435,18 @@ if (/WebKit/i.test(navigator.userAgent)) { // sniff
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2355662088">
-					<h4>Pine fruit</h4>				</div>
+					<h4>Pine fruit</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355660760">
-					<h4>huevos basket</h4>				</div>
+					<h4>huevos basket</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355659454">
-					<h4>High to reach</h4>				</div>
+					<h4>High to reach</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -459,7 +464,8 @@ if (/WebKit/i.test(navigator.userAgent)) { // sniff
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -485,7 +491,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -511,7 +518,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -527,15 +535,18 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2354826045">
-					<h4>A new field</h4>				</div>
+					<h4>A new field</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355654190">
-					<h4>View on the lake</h4>				</div>
+					<h4>View on the lake</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355653020">
-					<h4>Linea de huevos</h4>				</div>
+					<h4>Linea de huevos</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -553,7 +564,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -579,7 +591,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -605,7 +618,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -621,15 +635,18 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2355651408">
-					<h4>Hidden place</h4>				</div>
+					<h4>Hidden place</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2354818639">
-					<h4>Pascual Buscadores</h4>				</div>
+					<h4>Pascual Buscadores</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2354816017">
-					<h4>Perfect nest</h4>				</div>
+					<h4>Perfect nest</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -647,7 +664,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -673,7 +691,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -699,7 +718,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -715,15 +735,18 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2354814001">
-					<h4>Huevos in a tree</h4>				</div>
+					<h4>Huevos in a tree</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2354792955">
-					<h4>Huevos de brunch</h4>				</div>
+					<h4>Huevos de brunch</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355551240">
-					<h4>Rubik</h4>				</div>
+					<h4>Rubik</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -741,7 +764,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -767,7 +791,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -793,7 +818,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -809,15 +835,18 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2355549642">
-					<h4>Gallina</h4>				</div>
+					<h4>Gallina</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2354716325">
-					<h4>Bonhomme</h4>				</div>
+					<h4>Bonhomme</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2355546448">
-					<h4>5</h4>				</div>
+					<h4>5</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -835,7 +864,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -861,7 +891,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -887,7 +918,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -903,15 +935,18 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 	<tr valign="bottom">
 		<td>
 			<div class="StreamView" id="sv_title_2322967500">
-					<h4>Hamaca de obras</h4>				</div>
+					<h4>Hamaca de obras</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2322148173">
-					<h4>El cthulhu</h4>				</div>
+					<h4>El cthulhu</h4>
+				</div>
 		</td>
 		<td>
 			<div class="StreamView" id="sv_title_2322963060">
-					<h4>Giron playa</h4>				</div>
+					<h4>Giron playa</h4>
+				</div>
 		</td>
 	</tr>
 	<tr valign="top">
@@ -929,7 +964,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -955,7 +991,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
@@ -981,7 +1018,8 @@ deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attributio
 
 
 <span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
-deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span>
+<span class="ccTerm">Algunos derechos reservados.</span>
 
 	
 	</p>
