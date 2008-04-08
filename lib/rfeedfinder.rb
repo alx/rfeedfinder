@@ -1,6 +1,5 @@
 require 'net/http'
 require 'rubygems'
-require 'htmlentities' # extra 3 mb... is it needed?
 require 'open-uri'
 require 'hpricot'
 require 'timeout'
@@ -92,9 +91,7 @@ class Rfeedfinder
 
     options[:original_uri] = uri if !Rfeedfinder.isAValidURL?(uri) and options[:use_google]
     
-    # FIXME: Is HTMLEntities needed? Adds an extra 3mb to the process' ram requirement
-    # Could URI.decode be used? Which would already be included...
-    uri = HTMLEntities.decode_entities(uri)
+    uri = URI.decode(uri)
     options[:recurs] = [uri] if options[:recurs].nil?
     fulluri = Rfeedfinder.makeFullURI(uri)
 
