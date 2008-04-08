@@ -1,6 +1,6 @@
 require 'net/http'
 require 'rubygems'
-require 'htmlentities'
+require 'htmlentities' # extra 3 mb... is it needed?
 require 'open-uri'
 require 'hpricot'
 require 'timeout'
@@ -11,11 +11,13 @@ require File.dirname(__FILE__) + "/rfeedfinder/version"
 class Rfeedfinder
   # 
   # Takes:
-  # * +init_values+ (hash) containing proxy, and
-  #   and user-agent information.
-  #   You can also have the script return the data
-  #   it has downloaded for the feed addresses it returns
-  #   by adding :keep_data => true to the options hash
+  # * +init_values+ (hash) 
+  #   * +:proxy+: (string) proxy information to use. Defaults to a blank string
+  #   * +:user_agent+: (string) user agent to identify as. Defaults to Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION
+  #   * +:from+: (string) contact info to the responsible person. FIXME: Is this correct? Defaults to rfeedfinder@googlegroups.com
+  #   * +:keep_data+: (boolean) if the data downloaded for the feeds should be returned along with the URLs. Defaults to false
+  #   * +:use_google+: (boolean) tries to find a URL using a google "I'm feeling lucky" search. Defaults to false
+  # 
   #   
   #   Example:
   #   
@@ -24,13 +26,7 @@ class Rfeedfinder
   #                    :from => "contant@domain.com",
   #                    :referer => "http://domain.com"})
   #                    
-  #   Defaults to:
-  #   
-  #     :proxy => ""
-  #     :user_agent => "User-Agent" => "Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION"
-  #     :from => "rfeedfinder@googlegroups.com"
-  #     :referer => "http://rfeedfinder.rubyforge.org/"
-  # 
+  #     
   # Returns a new instance of Rfeedfinder 
   # 
   def initialize(init_values = {})
@@ -62,11 +58,13 @@ class Rfeedfinder
   # 
   # Takes:
   # * +uri+ (string): The URI to check
-  # * +options+ (hash) containing proxy, and
-  #   and user-agent information.
-  #   You can also have the script return the data
-  #   it has downloaded for the feed addresses it returns
-  #   by adding :keep_data => true to the options hash
+  # * +options+ (hash) 
+  #   * +:proxy+: (string) proxy information to use. Defaults to a blank string
+  #   * +:user_agent+: (string) user agent to identify as. Defaults to Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION
+  #   * +:from+: (string) contact info to the responsible person. FIXME: Is this correct? Defaults to rfeedfinder@googlegroups.com
+  #   * +:keep_data+: (boolean) if the data downloaded for the feeds should be returned along with the URLs. Defaults to false
+  #   * +:use_google+: (boolean) tries to find a URL using a google "I'm feeling lucky" search. Defaults to false
+  # 
   #   
   #   Example:
   #   
@@ -75,12 +73,6 @@ class Rfeedfinder
   #                    :from => "contant@domain.com",
   #                    :referer => "http://domain.com"})
   #                    
-  #   Defaults to:
-  #   
-  #     :proxy => ""
-  #     :user_agent => "User-Agent" => "Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION"
-  #     :from => "rfeedfinder@googlegroups.com"
-  #     :referer => "http://rfeedfinder.rubyforge.org/"
   #     
   # Returns:
   # * array of urls
@@ -88,15 +80,26 @@ class Rfeedfinder
   #   Example:
   #   [{:url => "url1", :data => "some data"},{:url => "url2", :data => "feed data"}]
   # 
+  # Raises:
+  # * ArgumentError if +uri+ is not a valid URL, and :use_google => false
+  # * ArgumentError if :use_google => true but it's not your lucky day
+  # 
   def self.feeds(uri, options = {})
     
     # We have to create a hash for the data
     # if the user has asked us to keep the data
     options[:data] = {} if options[:keep_data]  
-      
+
+    options[:original_uri] = uri if !Rfeedfinder.isAValidURL?(uri) and options[:use_google]
+    
+    # FIXME: Is HTMLEntities needed? Adds an extra 3mb to the process' ram requirement
+    # Could URI.decode be used? Which would already be included...
     uri = HTMLEntities.decode_entities(uri)
-    _recurs = [uri] if _recurs.nil?
+    options[:recurs] = [uri] if options[:recurs].nil?
     fulluri = Rfeedfinder.makeFullURI(uri)
+
+    raise ArgumentError, "#{fulluri} is not a valid URI." \
+      if !Rfeedfinder.isAValidURL?(fulluri) and !options[:use_google]
     
     # Add youtube support
     if fulluri =~ /youtube\.com\/user\/(.*[^\/])/
@@ -105,10 +108,13 @@ class Rfeedfinder
     if fulluri =~ /youtube\.com\/tag\/(.*[^\/])/
       fulluri = "http://www.youtube.com/rss/tag/#{$1}/videos.rss"
     end
-    
+        
     data = Rfeedfinder.open_doc(fulluri, options)
     return [] if data.nil?
 
+    # If we used the google link finder, then we should set the new URL
+    fulluri = options[:google_link] if options[:google_link]
+  
     # is this already a feed?
     if Rfeedfinder.isFeedData?(data)
       feedlist = [fulluri]
@@ -222,11 +228,13 @@ class Rfeedfinder
   # 
   # Takes:
   # * +uri+ (string): The URI to check
-  # * +options+ (hash) containing proxy, and
-  #   and user-agent information.
-  #   You can also have the script return the data
-  #   it has downloaded for the feed addresses it returns
-  #   by adding :keep_data => true to the options hash
+  # * +options+ (hash) 
+  #   * +:proxy+: (string) proxy information to use. Defaults to a blank string
+  #   * +:user_agent+: (string) user agent to identify as. Defaults to Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION
+  #   * +:from+: (string) contact info to the responsible person. FIXME: Is this correct? Defaults to rfeedfinder@googlegroups.com
+  #   * +:keep_data+: (boolean) if the data downloaded for the feeds should be returned along with the URLs. Defaults to false
+  #   * +:use_google+: (boolean) tries to find a URL using a google "I'm feeling lucky" search. Defaults to false
+  # 
   #   
   #   Example:
   #   
@@ -235,12 +243,6 @@ class Rfeedfinder
   #                    :from => "contant@domain.com",
   #                    :referer => "http://domain.com"})
   #                    
-  #   Defaults to:
-  #   
-  #     :proxy => ""
-  #     :user_agent => "User-Agent" => "Ruby/#{RUBY_VERSION} - Rfeedfinder VERSION"
-  #     :from => "rfeedfinder@googlegroups.com"
-  #     :referer => "http://rfeedfinder.rubyforge.org/"
   #     
   # Returns:
   # * one URL as a string or nil
@@ -248,6 +250,10 @@ class Rfeedfinder
   #   Example:
   #   {:url => "url1", :data => "some data"}
   # 
+  # Raises:
+  # * ArgumentError if +uri+ is not a valid URL, and :use_google => false
+  # * ArgumentError if :use_google => true but it's not your lucky day
+  #     
   def self.feed(uri, options = {})
     options[:only_first] = true
     feedlist = Rfeedfinder.feeds(uri, options)
@@ -404,32 +410,63 @@ class Rfeedfinder
     options[:referer] = options[:referer] || "http://rfeedfinder.rubyforge.org/"
       
     data = nil
+    
+    if !Rfeedfinder.isAValidURL?(link) and options[:use_google]
+      # Used google lucky script as found on 
+      # http://www.leancrew.com/all-this/2006/07/lucky-linking/
+      # It doesn't work to well...
+      # TODO: Improve it somehow. The real google function works a lot better!
+      # TODO: Build in support for languages through parameter "hl" (=> "en" by default)
+      prefix = "http://www.google.com/search?q="
+      suffix = "&btnI=I'm+Feeling+Lucky"
+      goodURL = URI.escape(prefix + options[:original_uri] + suffix)
+      puts "Checking #{goodURL}"
+      response = Net::HTTP.get_response(URI.parse(goodURL))
+      link = response.to_hash['location'].first
+      options[:google_link] = link
+      raise ArgumentError, "Google couldn't save us. We couldn't find anything for #{options[:original_uri]}" if link.nil?
+    end
+    
     begin
-      Timeout::timeout(20) {
+      
+      Timeout::timeout(20) do
+      
         data = Hpricot(open(link, {
                "User-Agent" => options[:user_agent],
                "From" => options[:from],
                "Referer" => options[:referer],
                :proxy => options[:proxy]
                }), :xml => true)
-      }
+      
+      end
+
     rescue OpenURI::HTTPError
+
       begin
-        Timeout::timeout(20) {
+
+        Timeout::timeout(20) do
+          
           html = Net::HTTP.get(URI.parse(link))
           data = Hpricot(html, :xml => true) if html.to_s !~ /404 Not Found/
-        }
+
+        end
+
       rescue Timeout::Error
         return nil
+
       rescue => err
         puts "Error while opening #{link} with Hpricot: #{err.class} " << $!
         return nil
+
       end
+
     rescue Timeout::Error 
       return nil
+
     rescue => err
       puts "Error while opening #{link} with Hpricot: #{err.class} " << $!
       return nil
+
     end
     
     # Store the data for the URL if the user has requested it
@@ -437,4 +474,24 @@ class Rfeedfinder
     
     return data
   end
+
+  def self.isAValidURL?(url_to_check)
+    return false if url_to_check == nil
+
+    # The protocols that we allow are the following
+    protocol_whitelist = ["http", "https"]
+    # I guess we could have included some more, but that doesn't really
+    # make sense anyway as these are the ones that should be used.
+    # We'll see if the need arises and then add more later if needed.
+
+    re = Regexp.new("(#{protocol_whitelist.join('|')}):" + \
+      "\/\/([[:alpha:][:digit:].]{2,})([.]{1})([[:alpha:]]{2,4})(\/)")
+
+    # For the sake of the regular expression check we add a back slash
+    # at the end of the URL
+    url_to_check += "/"
+    return true unless (re =~ url_to_check) == nil
+    false
+  end
+
 end
