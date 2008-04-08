@@ -1,0 +1,625 @@
+<html>
+<head>
+<title>Scripting News: 4/5/2008</title>
+<meta name="ROBOTS" content="NOODP" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.scripting.com/rss.xml" />
+<link rel="openid.server" href="http://www.myopenid.com/server" />
+<link rel="openid.delegate" href="http://davew.myopenid.com/" />
+
+<script language="javaScript">
+	<!--
+	function expandCollapse(id){
+		 // You need to make sure that your plus minus img has an id the same as the div. Make sure the id value is prefixed with img_ 
+		 // You can set the default expanded state by just defining the class of the div element to either show or hide when generate the page. Also, make sure you define which img(-|+) should show when generating the page.
+		
+	    var imgId = 'img_'+ id;
+		if(document.getElementById(id).className == 'hide'){
+			document.getElementById(id).className='show';
+		   	document.getElementById(imgId).src='http://www.scripting.com/mktree/minus.gif';		
+		}
+		else{
+	   		document.getElementById(id).className='hide';
+			document.getElementById(imgId).src='http://www.scripting.com/mktree/plus.gif';
+		}
+	}
+	-->
+</script> 
+<style> 
+ <!--
+  .hide{
+	visibility: hidden;
+	position:absolute;
+  width:400px;
+  min-width:400px;
+  }
+  .show {
+  width:400px;
+  padding-left:20px;
+	}
+ -->
+</style>
+
+
+
+
+<meta name="generator" content="Frontier 10.1a8 WinNT"></head>
+<body bgcolor="#FFFFFF" alink="#008000" vlink="#800080" link="#0000FF" text="#000000">
+<center>
+	<table width="660" cellspacing="0" cellpadding="0" bgcolor="white">
+		<tr><!-- header -->
+			<td colspan="4">
+				<table width="100%" cellpadding="0" cellspacing="0"><tr><td><a href="http://htmlarchive.scripting.com/">Archive</a>&nbsp;>&nbsp;
+<a href="http://htmlarchive.scripting.com/2008/">2008</a>&nbsp;>&nbsp;
+<a href="http://www.scripting.com/2008/04.html">April</a>&nbsp;>&nbsp;
+<a href="http://www.scripting.com/2008/04/05.html">5</a>
+</td><td align="right"><a href="http://www.scripting.com/2008/04/04.html">Previous</a>&nbsp;<b>/</b>&nbsp;Next</td></tr></table><br><br>
+				<!-- <img src="http://monster3.scripting.com:5337/scriptingnews/header.gif"> -->
+				<a href="/"><img src="http://images.scripting.com/archiveScriptingCom/2006/12/19/header.gif" width="640" height="77" border="0" alt="Scripting News, the weblog started in 1997 that bootstrapped the blogging revolution."></a>
+				</td>
+		<tr><!-- body -->
+			<td valign="top" colspan="2">
+				<br>
+<h4><a href="javascript:expandCollapse('whyThisIsTheEndForTheClint');"><img border="0" align="left" id="img_whyThisIsTheEndForTheClint" src="http://www.scripting.com/mktree/minus.gif"></a>Why this is the end for the Clintons&nbsp;<a href="http://www.scripting.com/stories/2008/04/05/whyThisIsTheEndForTheClint.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="show" id="whyThisIsTheEndForTheClint" name="whyThisIsTheEndForTheClint">
+<img src="http://images.scripting.com/archiveScriptingCom/2008/04/05/gecko.jpg" width="114" height="249" border="0" align="right" hspace="15" vspace="5" alt="A picture named gecko.jpg">Yesterday we got our first look at the <a href="http://www.nytimes.com/2008/04/05/us/politics/05clintons.html?_r=1&ref=politics&oref=slogin">Clinton's tax returns</a>, and the top line is a stunner. $109 million over the last seven years. Before that I found Obama's income from his book, about $1 million, a bit hard to deal with. But the Clintons blow that away. <br><br>
+Here it is in black and white, the books of an ex-President, opened up. Finally, we the people, get an idea of what this job is worth. A lot.<br><br>
+I suspect we'll never see the tax returns of the current President, seven years after he leaves office, but I supect he'll be adding another zero or two, as he calls in the chits from his buddies in the oil and defense industries who profited so much from his Presidency. He'll give speeches too, the fees will be even more obscene than Clinton's.<br><br>
+I'd love to see a breakdown of the speeches. Who pays $1 million for an after-dinner speaker and why? Maybe I'm missing something, but something doesn't sound right here.<br><br>
+Anyway, back to the Clintons.<br><br>
+In tech entrepreneurship, repeat success is rare. Not saying it doesn't happen, it does, but often, the second time an entrepreneur gives it a go, the venture flops. It's happened to me, and I've seen it happen to a number of others, and I understand the reason.<br><br>
+The first time you ran, you had to sacrifice everything to win. Failure was something you visualized around every corner, but something you could never deal with, so you made sure you didn't have to. You did whatever it took to make it work.<br><br>
+The second time is different. Now you expect <i>success</i> not failure. You've mostly forgotten the sacrificing you did the first time, but you remember some of it, the long hours, the lack of sunshine and exercise or a personal life. This time, you want success on your terms. It's not enough to win, you have to win the way you (feel you) should have the first time.<br><br>
+Problem is, that's not how success works. If what you seek is worth something, and as we can see from the Clinton returns, this job certainly is worth something, there will be competitors, and if they don't bring the same conditions you do, if they're willing to sacrifice the way you once were but aren't any longer, well, you'll lose. As the Clintons are losing.<br><br>
+<a href="http://www.netflix.com/Movie/Primary_Colors/8179585?trkid=222336&lnkctr=srchrd-sr&strkid=953694424_0_0"><img src="http://images.scripting.com/archiveScriptingCom/2008/04/05/pc.gif" width="95" height="128" border="0" align="right" hspace="15" vspace="5" alt="A picture named pc.gif"></a>I watched <a href="http://www.netflix.com/Movie/Primary_Colors/8179585?trkid=222336&lnkctr=srchrd-sr&strkid=953694424_0_0">Primary Colors</a> the other night, it served as a reminder of the cult around the Clintons in the early 90s. I didn't like them, but enough people did, so he won. He cut corners, lied into the camera, but exuded a charm that was compelling. This time, sad to say, the lies and cut corners are still there, but the charm isn't. And to see where that went, look at the tax returns. The Clintons don't live on the same plane as you and I. The air they breathe is richer. Their friends are powerful. Once she's elected that'll be the last we hear from her till she wants to be re-elected, just like the current president. <br><br>
+She doesn't offer hope (as Bill did in 1992, and Barack does today). She laughs at the <i>idea</i> of hope. As if you poor wretches are entitled to any of that! <br><br>
+Remember this when you're plotting a comeback, you're going to have to deal with this too, everyone does, or so it seems.<br><br>
+<a href="http://www.scripting.com/stories/2008/04/05/whyThisIsTheEndForTheClint.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/5/2008; 11:04:51 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/05/whyThisIsTheEndForTheClint.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('whyDidSeesmicBuyTwhirl');"><img border="0" align="left" id="img_whyDidSeesmicBuyTwhirl" src="http://www.scripting.com/mktree/plus.gif"></a>Why did Seesmic buy Twhirl?&nbsp;<a href="http://www.scripting.com/stories/2008/04/04/whyDidSeesmicBuyTwhirl.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="whyDidSeesmicBuyTwhirl" name="whyDidSeesmicBuyTwhirl">
+Yesterday Seesmic announced that they're buying Twhirl, the AIR-based Twitter client.<br><br>
+I usually don't comment on acquisitions, but this one is right up my alley and I can offer some insight without breaking any confidences. I've been spending a lot of time over the last year trying to understand Twitter, and it's not an easy thing to figure out, so I welcome the chance to discuss it again from another point of view.<br><br>
+First, a disclaimer, I considered investing in Seesmic, even announced that I was doing so, then changed my mind. If the stock market hadn't tanked I almost certainly would have gone ahead with the investment.<br><br>
+Second, I think buying Twhirl is probably a brilliant move for Seesmic. I can't tell for sure because we don't know how much they paid for it, but assuming it was a reasonable amount (low six figures) what Seesmic gets, as <a href="http://gigaom.com/2008/04/04/seesmic-twhirl/">Om wisely says</a>, is the only thing that matters -- users.<br><br>
+That's the first epiphany that's available from using Twitter. It's all about the users. It's the second epiphany and the 208th. Nothing else matters, not even the reliability of the system (though that's much better these days) -- even on its most flaky days, there was never an exodus to any of the alternative systems that exist. However, fortunately for Twitter, none of the alternative systems have tried to clone Twitter, and that may be in Seesmic's future, but I get ahead of myself.<br><br>
+Another reason it's potentially a brilliant move is that it keeps Seesmic in the conversation. After an initial rollout that made Seesmic the talk of the town for a couple of months, now the cursor has moved on (not sure where), and Seesmic isn't that much the topic du jour. With a Twitter client with say 10K or 20K users (they've had 100K downloads) now there are all those people that Loic can pitch daily in hopefully a tasteful not too intrusive way. <br><br>
+Another key thing -- now you don't have to "go" somewhere else to see a Seesmic video. If you live in Twhirl (they should change the name, please, it's so hard to type) one suspects that Seesmic videos will not come to you through the normal Twitter mechanism with a bit of text and a URL. They can make it much more seamless, and I bet they do. And in doing so they will be creating a very nice demo of payloads, something I've been saying Twitter themselves should be doing. But, no problem, now Seesmic can, at least for video (which is a very large piece of the problem).<br><br>
+No matter if any of this speculation is correct, if the price was right, Seesmic bought access to some very good users and they have the ability to converse with them through the very personable Loic at the helm. <br><br>
+Update: Compete.com <a href="http://siteanalytics.compete.com/www.twhirl.org+seesmic.com/?metric=uv">comparison</a> between Seesmic and Twhirl. Tells an interesting <a href="http://images.scripting.com/archiveScriptingCom/2008/04/04/seesmicgraph.gif">story</a>.<br><br>
+<a href="http://www.scripting.com/stories/2008/04/04/whyDidSeesmicBuyTwhirl.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/4/2008; 10:16:48 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/04/whyDidSeesmicBuyTwhirl.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('youOnlyGetToLoseYourVirgin');"><img border="0" align="left" id="img_youOnlyGetToLoseYourVirgin" src="http://www.scripting.com/mktree/plus.gif"></a>You only get to lose your virginity once&nbsp;<a href="http://www.scripting.com/stories/2008/04/03/youOnlyGetToLoseYourVirgin.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="youOnlyGetToLoseYourVirgin" name="youOnlyGetToLoseYourVirgin">
+First, sorry for the light posting, I've had a bad cold for the last 3 days, and have mostly been sleeping and getting caught up on Battlestar Galactica in preparation for the season premiere on Friday. Some call it the SuperBowl of SciFi. I can't wait.<br><br>
+I've been keeping an eye on the blog discussion about the faceoff between Demo and TechCrunch50, trying to figure out what it means.<br><br>
+First, I think what <a href="http://www.news.com/8301-13772_3-9909841-52.html">Arrington said</a> about Demo needing to die is way over the top. Can you imagine Pepsi marketing against Coke saying "Coke needs to die." Or even Apple <a href="http://movies.apple.com/movies/us/apple/getamac/apple_getamac_breakthrough_20080401_480x272.mov">saying</a> to IBM that they need to die. There's a reason people don't go this far in marketing -- it puts others in the uncomfortable position of appearing to agree with you if they buy your product. You don't want anything to stand in the way of that. <br><br>
+Scheduling it on exactly the same days as Demo is too predatory for my taste. Why not win on the merits? Why not let Demo have a chance to morph, to learn from the competition, maybe as a result we'll have two great conferences. <br><br>
+I haven't been to a Demo in many years, but I was one of the founding Demoers of the conference, and was once offered the job of running it (I declined because I was running a software company and felt that would conflict with the demoers). <br><br>
+Originally, only a handful of products were demo'd on stage, most of the demos took place in a ballroom. The presenters were seated, and there were two or three chairs for people receiving demos. All the desks were the same, the signage was the same. <br><br>
+It was designed to be a civilized version of Comdex. Instead of walking between the few far-apart booths that had interesting demos, and having zero percent chance of getting a demo from someone who could answer your questions, at Demo you would be guaranteed that the person giving the demo was either the developer, product manager, or CEO of the company. Someone in a position to answer a question. <br><br>
+Stewart Alsop chose the products, I don't remember if they paid or not (I have an email into Stewart asking) but it wasn't a lot of money. It was nothing like $18,500.<br><br>
+I've started two companies. At either of them, we might have spent $18,500 to get our product in front of the right people. We were spending several times that every month on advertising. Today there aren't as many places to run ads, and startups raise more money. If I were running Demo and there was a product I really wanted to have and they couldn't afford the fee, I'd comp them. I hope IDG does that. (I paid expenses for some people to come to BloggerCon because I wanted them there, and they couldn't afford to come without the stipend.)<br><br>
+However, I can't imagine that I, as an entrepreneur, would choose to roll out my product at either conference. They're <i>both</i> shitty deals for entrepreneurs. At <a href="http://www.techcrunch50.com/2008/">TechCrunch50</a> there are 50 products. At <a href="http://www.demo.com/conferences/demofall08.html">Demo</a> there are 70. Since they're happening the same week, at best I'm one of 120. I would rather, as <a href="http://www.livedigitally.com/">Jeremey Toeman</a> <a href="http://www.stagetwoconsulting.com/when-conferences-conflict-76/">advises</a>, roll my product out on a quiet week in the middle of summer when my product is the only new thing shipping. Much better chance of finding new users and maybe getting a review or two. Or pick a venue where not many new products are shipped, like SXSW or Foo Camp (as Twitter and Chumby did, respectively, with good results). <br><br>
+You only get to lose your virginity once, so choose your venue wisely.<br><br>
+Honestly, what both conferences say about the technology industry is that it's way over-supplied with new product. There's no way there's demand for even a fraction of those products. It's probably not true, esp if the rollouts were spaced out over a few months, but blowing them out all at once only serves the conference promoters. It's hard to see what's in it for the entrepreneurs or their investors. <br><br>
+<b>I got a response from Stewart Alsop:</b><br><br>
+"Calacanis and Arrington are both troublemakers, which as you know could be said about me too. So I can't too exercised about the debate, other than wish they would get their facts straight. Neither one asked me the question you did below, so thank you for asking!<br><br>
+"Demo has <i>always</i> charged a fee to Demonstrate. It has never charged a separate fee to be on stage. One thing that Chris Shipley has done that is different than the original Demo is that every company is introducing a new product that has not been previously demonstrated. (They define "never" broadly, but you get the idea.) When we started Demo, the idea was that all interesting new products that were current would be demonstrated but only truly new products would be shown on stage in live demos (along with bake-offs and other fun stuff, but no panel sessions).<br><br>
+"So all companies that had a station in the demonstration hall paid a fee to demonstrate, which was really to cover the cost of providing the stations and (most important) the infrastructure for having the demos work, although the internet wasn't an issue then; it was client server time and we needed to put in a LAN.<br><br>
+"We (Alsop Louie Partners) had portfolio companies at both events (Cake Financial at TechCrunch and both Ribbit's Amphibian and Redux at Demo 08), so I got to see how both operated. The difference was that TechCrunch was 'inexpensive,' which meant that the infrastructure didn't work well (demonstrators had to be prepared to demo without the internet and the schedule was managed loosely). Demo was on schedule and the infrastructure worked because they had redundant systems.<br><br>
+"On relevance: People still like to get together and do demos to talk about products and design and coding. But it's much less about client apps and PCs now and much more about web apps and systems. Infrastructure and systems don't demo well (remember the bake-off between dBase and Access?). So it's really all about doing demos of Web apps now. It's an open question if that's big enough to draw people to a resort or if it's better in a major city like SF..."<br><br>
+<a href="http://www.scripting.com/stories/2008/04/03/youOnlyGetToLoseYourVirgin.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/3/2008; 1:29:27 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/03/youOnlyGetToLoseYourVirgin.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('todaysClintonConferenceCal');"><img border="0" align="left" id="img_todaysClintonConferenceCal" src="http://www.scripting.com/mktree/plus.gif"></a>Today's Clinton conference call MP3&nbsp;<a href="http://www.scripting.com/stories/2008/04/02/todaysClintonConferenceCal.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="todaysClintonConferenceCal" name="todaysClintonConferenceCal">
+It's always darkest just before dawn, the saying goes. Yesterday I said we probably weren't going to get the campaign conf calls, and today I got one.<br><br>
+<a href="http://sundaygang.com/clinton/2008/04/02/call1.mp3">http://sundaygang.com/clinton/2008/04/02/call1.mp3</a> <br><br>
+Thanks to Sarah Lai Stirland, Evan Hansen and Michael Calore at Wired for their help in bootstrapping this. <br><br>
+<a href="http://www.scripting.com/stories/2008/04/02/todaysClintonConferenceCal.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/2/2008; 10:26:30 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/02/todaysClintonConferenceCal.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('11YearsOfScriptingNews');"><img border="0" align="left" id="img_11YearsOfScriptingNews" src="http://www.scripting.com/mktree/plus.gif"></a>11 years of Scripting News&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/11YearsOfScriptingNews.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="11YearsOfScriptingNews" name="11YearsOfScriptingNews">
+To mark the 11th anniversary of Scripting News, here's a pointer to docs on the software I used to edit the site. <br><br>
+<a href="http://www.scripting.com/frontier/netscripting/newsPage.html">http://www.scripting.com/frontier/netscripting/newsPage.html</a> <br><br>
+I thought of what eventually became the weblog as a News Page, a roughly reverse chronologic list of links to news stories. <a href="http://www.scripting.com/frontier/gifs/newsPageOutline.gif">Then</a> as now I edited using the <a href="http://www.scripting.com/frontier/snippets/outlinerCribSheet.html">outliner</a> in Frontier. <br><br>
+We made the NewsPage suite and all the other code that ran in the Frontier environment (the "Aretha" release) available in source to anyone who wanted to use it, and amazingly, a fair number of sites poppped up that more or less followed the pattern of Scripting News.<br><br>
+I don't remember them all, but the most notable one (to me) was Robot Wisdom, which was managed for the first few years with this software.<br><br>
+There will be people who give me a hard time for writing this, but that's their problem not mine. One of the benefits of creating something that really took off is that you get to gloat about it. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/04/01/11YearsOfScriptingNews.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/1/2008; 6:29:31 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/11YearsOfScriptingNews.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('aWimaxN810');"><img border="0" align="left" id="img_aWimaxN810" src="http://www.scripting.com/mktree/plus.gif"></a>A Wimax N810&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/aWimaxN810.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="aWimaxN810" name="aWimaxN810">
+<a href="http://news.google.com/news?q=WiMax+N810">Nokia announced</a> a new version of the N810 handheld Linux computer designed to work over a Wimax network, which raises the obvious question, does Berkeley have Wimax? What other cities has it? What are the economics?<br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/04/01/wimaxn810.jpg" width="130" height="109" border="0" alt="A picture named wimaxn810.jpg"><br><br>
+<a href="http://www.scripting.com/stories/2008/04/01/aWimaxN810.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/1/2008; 6:50:52 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/aWimaxN810.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('podcastFollowupOnCampaignC');"><img border="0" align="left" id="img_podcastFollowupOnCampaignC" src="http://www.scripting.com/mktree/plus.gif"></a>Podcast followup on campaign conf calls&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/podcastFollowupOnCampaignC.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="podcastFollowupOnCampaignC" name="podcastFollowupOnCampaignC">
+Here's a podcast following up on where we're at with getting MP3s of campaign conference calls. <br><br>
+<a href="http://sundaygang.com/dave/followupOnCampaignConfCalls.mp3">http://sundaygang.com/dave/followupOnCampaignConfCalls.mp3</a> <br><br>
+Summary: It's not looking too good.<br><br>
+<a href="http://www.scripting.com/stories/2008/04/01/podcastFollowupOnCampaignC.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">4/1/2008; 11:45:55 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/04/01/podcastFollowupOnCampaignC.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('ourStandardAprilFoolParty');"><img border="0" align="left" id="img_ourStandardAprilFoolParty" src="http://www.scripting.com/mktree/plus.gif"></a>Our standard April Fool party&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/ourStandardAprilFoolParty.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="ourStandardAprilFoolParty" name="ourStandardAprilFoolParty">
+Watch out for the lunacy tomorrow as April Fools is celebrated on blogs and other websites far and wide. I imagine it's already started since it must be April 1 in New Zealand or Australia by now.<br><br>
+Here on Scripting News we celebrate something else... Our birthday! You see it was on April 1, 1997 that a <a href="http://www.scripting.com/aprilfool2007.html">blog-like website</a> first appeared at <a href="http://www.scripting.com/">www.scripting.com</a>. Last year it was our <a href="http://www.scripting.com/2007/04/01.html">10th birthday</a>, which implies that tomorrow is the 11th.<br><br>
+To celebrate, I've cobbled together a humble page that calculates the age of Scripting News with 10 digits of precision.<br><br>
+<a href="http://age.scripting.com/">http://age.scripting.com/</a> <br><br>
+So at midnight tonight, it should flip over. If you like such things you may stay up to see it flip. <br><br>
+Hey it's a geeky site. What else would you suggest? <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+So enjoy the other sites, and keep coming back through the years, Murphy-willing of course, as we all grow old together.<br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/31/happyBirthdayScriptingNews.gif" width="225" height="225" border="0" alt="A picture named happyBirthdayScriptingNews.gif"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/31/ourStandardAprilFoolParty.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/31/2008; 4:22:49 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/ourStandardAprilFoolParty.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('iLoveBattlestarGalactica');"><img border="0" align="left" id="img_iLoveBattlestarGalactica" src="http://www.scripting.com/mktree/plus.gif"></a>I love Battlestar Galactica&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/iLoveBattlestarGalactica.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="iLoveBattlestarGalactica" name="iLoveBattlestarGalactica">
+<a href="http://flickr.com/photos/scriptingnews/2378717692/"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/31/bsg.jpg" width="256" height="145" border="0" alt="A picture named bsg.jpg"></a><br><br>
+Working my way through Season 3, in prep for Season 4, which starts this week. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/31/iLoveBattlestarGalactica.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/31/2008; 5:06:15 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/iLoveBattlestarGalactica.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('mixingTechIndustryPolitics');"><img border="0" align="left" id="img_mixingTechIndustryPolitics" src="http://www.scripting.com/mktree/plus.gif"></a>Mixing tech industry politics with U.S. politics&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/mixingTechIndustryPolitics.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="mixingTechIndustryPolitics" name="mixingTechIndustryPolitics">
+Something I didn't know, but now that I do, it makes sense. <br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/31/accordion.gif" width="81" height="194" border="0" align="right" hspace="15" vspace="5" alt="A picture named accordion.gif">One of the reasons I'm not so popular in the tech industry is that I'm an enthusiastic supporter of Barack Obama, and I look forward to the day, coming soon, when the Republicans leave the White House and we can get on with fixing the problems they created, and then getting on track solving some long-term problems that we've been ignoring. <br><br>
+Now of course, I understand that there are Clinton supporters in the tech industry, and there are even Republicans who like Bush, and to them my enthusiastic support sometimes goes a little too far. I understand, totally. If for example, I were following a Bush supporter, like Tony Perkins, on Twitter, I would have unfollowed him long ago. I don't need that level of annoyance. He and I are never going to agree on politics, not even how to discuss politics, so I would just tune him out. Knowing Tony, I don't think he'd hold it against me, as I wouldn't hold it against any Republican tech person who unfollowed me. <br><br>
+What I can't support are personal attacks and name-calling just because we disagree. General attacks are okay with me. In other words if you think all Obama supporters are idiots, go ahead and say it (I'll probably unfollow, but BFD). But if you say I'm a jerk just because I support someone you don't, then I have a problem with that (esp if you don't make it clear that's why you're saying it). You're getting confused between personal issues and political ones, and I think you're going to even lose the support of people who agree with you politically, and imho you should. <br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/31/elephant.gif" width="125" height="90" border="0" align="right" hspace="15" vspace="5" alt="A picture named elephant.gif">After all is said and done, when we elect the next President, we're still going to be Americans (with apologies to readers who aren't). That's been the problem in the last few elections, we forgot, after the election was over, to find the common ground that we agree on. And as a result the Constitution is in trouble, and our economy is a mess (even Bush agrees), and our reputation overseas isn't good and it's getting worse. I think this is because we forgot to bind our wounds after the election, and our elected leadership didn't lead. <br><br>
+So this is what I learned. I think some people hide their political differences behind personal attacks. This is what none of us should support. We should be able to have a discussion and keep our self-respect and dignity. That US politics gets masked as tech industry politics is very confusing and should not be tolerated.<br><br>
+BTW, as a constructive step toward fixing this problem, I think all tech industry bloggers should let us know their politics. If you're American, which of the Presidential candidates do you support. I wouldn't have thought this was necessary just 48 hours ago, but now I'm sure it is.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/31/mixingTechIndustryPolitics.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/31/2008; 12:30:24 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/mixingTechIndustryPolitics.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('whereDidYouHaveYourGreatId');"><img border="0" align="left" id="img_whereDidYouHaveYourGreatId" src="http://www.scripting.com/mktree/plus.gif"></a>Where did you have your great idea?&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/whereDidYouHaveYourGreatId.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="whereDidYouHaveYourGreatId" name="whereDidYouHaveYourGreatId">
+Wired has a fascinating <a href="http://www.wired.com/culture/lifestyle/multimedia/2008/03/ff_eureka?slide=2&slideView=2">photo-essay</a> with narratives from famous innovators explaining where they were when they had their biggest idea. <br><br>
+For example, Reed Hastings got the idea for Netflix in a movie rental place in <a href="http://maps.google.com/maps?ie=UTF8&oe=utf-8&client=firefox-a&q=La+Honda,+CA,+USA&z=11&iwloc=addr">La Honda, CA</a> (a fairly remote place between Palo Alto and the Pacific Ocean).<br><br>
+Now that we have digital cameras and know people from far away through our blogs, Twitter and Flickr, it seems we could tell stories like this about the places we live and more mundane but still important events in our lives. They could become quick collaborative documents like the Wired photo-essay. <br><br>
+Examples: <br><br>
+1. A photo-essay of opening days at all major league ballparks in the US.<br><br>
+2. Church services in every major city on a given weekend (different religions have services on Friday, Saturday and Sunday).<br><br>
+3. Following a candidate for the Senate or House as they campaign for one day. (The major news outlets don't cover local races very well anymore.)<br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/31/netflix.gif" width="110" height="70" border="0" align="right" hspace="15" vspace="5" alt="A picture named netflix.gif">Projects like this are important warmups and proofs-of-concept for amateur newsgathering, and perhaps new politics. It's not just for Democrats or Republicans, maybe this is how we bootstrap new parties, or maybe it's just for fun. Who knows. Learning doesn't have to stop when you leave school. I like stories, esp short ones, along with pictures of places and people that are different or strangely familiar. This is part of what I meant in yesterday's <a href="http://www.scripting.com/stories/2008/03/30/proofThatTheEndIsNear.html">post</a>. Let's reset the dial back to the beginning, start small, and stay small. Now we have some new tools that we didn't have last time amateur public writing started up (or whatever it's called). <br><br>
+There is no A-list, just people with ideas.  <br><br>
+The difference is people doing it for fun, versus people doing it to either get rich or earn a living. Yes, there really is a difference in approach.<br><br>
+PS: In case this turns out to be a great idea, I had it in my <a href="http://www.flickr.com/photos/scriptingnews/2360953599/">kitchen</a>. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/31/whereDidYouHaveYourGreatId.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/31/2008; 9:31:56 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/31/whereDidYouHaveYourGreatId.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('whyWouldGoogleWebServicesC');"><img border="0" align="left" id="img_whyWouldGoogleWebServicesC" src="http://www.scripting.com/mktree/plus.gif"></a>Why would Google Web Services cost $0?&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/whyWouldGoogleWebServicesC.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="whyWouldGoogleWebServicesC" name="whyWouldGoogleWebServicesC">
+Google Web Services, or GWS, is the hypothetical competitor to Amazon Web Services that I <a href="http://www.scripting.com/stories/2008/03/29/pigs.html">wrote</a> about yesterday.<br><br>
+The first question that comes up is how can they afford to give it away? That came up in yesterday's comments and the answer is important enough to deserve its own blog post. <br><br>
+So here goes...<br><br>
+Google has always challenged conventional wisdom that way, as Netscape did before. Remember when they let people download the browser for free, how foreign that seemed.<br><br>
+Google's search engine cost nothing to use and had no ads for the first few years, and look at how well that turned out.<br><br>
+Flipped around, I don't see why Amazon charges me to use AWS. I think I produce as much value for them as I use just by writing about it, but they haven't been willing to bend (not that I've asked them to). If there was no cost to it, I'd use their services for new things that I'm not willing to try as long as I have to pay. I know that because there are projects I've not attempted because the cost was prohibitive.<br><br>
+Perhaps Google is thinking about acquisitions. How much would it be worth to buy companies without having to transition their technology to their platform? There would be no retraining either, all the programmers in the companies they acquire would know how to work in the environment. Further, can you imagine that they'd charge universities to teach comp sci using their cloud?<br><br>
+Given the cost of acquisitons, recruiting and training they can afford to blow a lot of money on free bandwidth, storage and CPU to make the buying and hiring process more efficient and increase the hit rate (the percentage of programmers who work out).<br><br>
+If they're smart they won't get involved in deciding which projects can use the service, as Apple has taken an interest in who can develop for the iPhone. How can a bureaucracy decide what projects will have merit in the market? Better to let a thousand flowers bloom knowing that the best ones will be available to you first because their software is perfectly compatible with yours.<br><br>
+My guess is that's why Microsoft wants to buy Yahoo, which is built entirely on open source system software. Microsoft will be in much better position to acquire companies after Yahoo than before.<br><br>
+<i>Of course</i> Google is doing this, how could they not be. What's hard to believe is how much of a running start Microsoft, Yahoo, and Google have been willing to let Amazon have.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/30/whyWouldGoogleWebServicesC.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/30/2008; 4:57:33 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/whyWouldGoogleWebServicesC.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('proofThatTheEndIsNear');"><img border="0" align="left" id="img_proofThatTheEndIsNear" src="http://www.scripting.com/mktree/plus.gif"></a>Proof that the end is near&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/proofThatTheEndIsNear.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="proofThatTheEndIsNear" name="proofThatTheEndIsNear">
+Over on Twitter I am unceremoniously blocking all tech industry superdelegates.<br><br>
+Let me explain.<br><br>
+Imagine if the tech industry was the Democratic Party, then the insider's insiders would be the superdelegates. The people who talk about people talking about people talking about people talking about tech. <br><br>
+Somewhere at the end of the chain there are products and users, forgotten in all the drama. <br><br>
+I'm sick of it.<br><br>
+I pulled out of the tech industry and started blogging in 1994 or 1997 depending on what you count as the start so I could get away from the crap. Now Mike Arrington is talking about turning TechCrunch into CNET. That's a sure sell signal. Get me the fuck outta here. Beam me up Scotty. This isn't Kansas anymore Auntie Em.<br><br>
+I announced this on Twitter, and people asked me to explain. <br><br>
+I struggled, then I bounced over to TechMeme and found the perfect explanation. Click on the image below for the punchline. <br><br>
+<a href="http://www.flickr.com/photos/scriptingnews/2374802140/"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/30/theEnd.gif" width="200" height="177" border="0" alt="A picture named theEnd.gif"></a><br><br>
+I'll tell you the answer. Most people wouldn't recognize an original thought if it bit them in the ass. <br><br>
+What we used to call blogging is now just bullshit about recycled bullshit about recycled bullshit and on and on. Who bit who in the ass, never mind anything new or hard to comprehend, cause that's not what we do. We aggregate eyeballs and clickthroughs and CPMs and god knows what else.<br><br>
+Back in the old days before any of you were blogging, we (the olde skool bloggers) used to write about them watching us watching them watch us watch them. <br><br>
+It's happening again...<br><br>
+Nothing wrong with it, it's human nature.<br><br>
+But it's time to decentralize again. <br><br>
+Head for the hills.<br><br>
+If I could only remember where they are! <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+PS: Google is doing <a href="http://www.scripting.com/stories/2008/03/29/pigs.html">something</a> <a href="http://www.scripting.com/stories/2008/03/30/whyWouldGoogleWebServicesC.html">itneresting</a>. So much for finding all the juicy bits on TechMeme! <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+PPS: Tech industry people dis <a href="http://marc.blogs.it/">Marc Canter</a>, they're idiots. Marc always knows what's going on long before they do. It sounds strange when he says it cause new stuff <i>is</i> strange. <br><br>
+PPPS: Further proof that the end is near. This idiotic meta-meta-post <a href="http://images.scripting.com/archiveScriptingCom/2008/03/30/furtherProof.gif">made</a> it on TechMeme. Oh the <a href="http://www.youtube.com/watch?v=F54rqDh2mWA">humanity</a>. <br><br>
+PPPPS: Thsi stupid piece is now the #2 item on TechMeme. <a href="http://images.scripting.com/archiveScriptingCom/2008/03/30/lunacy.gif">Proof</a> that the more stupid a post is, the higher it rises in what passes for the tech blogosphere. Update: <a href="http://www.flickr.com/photos/scriptingnews/2376054892/">It's now #1</a>.<br><br>
+PPPPPS: This won't be complete until Mathew Ingram tags on his two cents. Update: <a href="http://www.mathewingram.com/work/2008/03/30/the-blogosphere-as-high-school-part-xvii/">It's now complete</a>. Good night Chet. Good night Daivd. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/30/proofThatTheEndIsNear.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/30/2008; 11:29:27 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/proofThatTheEndIsNear.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('howTheDemocraticProcessWil');"><img border="0" align="left" id="img_howTheDemocraticProcessWil" src="http://www.scripting.com/mktree/plus.gif"></a>How the Democratic process will likely conclude&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/howTheDemocraticProcessWil.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="howTheDemocraticProcessWil" name="howTheDemocraticProcessWil">
+Like everyone else (or so it seems) I have been following the Democratic nominating process, even though we're in hiatus now between the early March primaries and the Pennsylvania primary in mid-late April. <br><br>
+I'm an Obama supporter, so I like the way the conversation has turned back to "Why Doesn't Hillary Quit?" instead of the soul-sickening stuff we were talking about for the last couple of weeks. (Even though there was a lot of growth there.)<br><br>
+This morning Josh Marshall at Talking Point Memo circles around all the possibilities.<br><br>
+<a href="http://talkingpointsmemo.com/archives/186346.php">http://talkingpointsmemo.com/archives/186346.php</a> <br><br>
+But it seems obvious to me this is how it will end:<br><br>
+1. On or before June 3, enough superdelegates declare for Obama and he wins enough delegates in the remaining 10 primaries to give him more than the 2025 delegates he needs to get the nomination. The key is that the superdelegates don't have to sit by and do nothing. Winning favor from Obama who is pretty likely the next President is going to be worth more than hedging against the chance that HRC prevails. The Clinton's currency is already heavily devalued, and it's likely to keep going down.<br><br>
+2. Then HRC is free to bring whatever fight she wants to the convention, it won't matter, because Obama will have the nomination, and will (correct me if I'm wrong) also control the Credentials process, so she'll have to do what he wants in the end wrt Michigan and Florida. (A more than fair resolution of Michigan and Florida, already offered, would be to split the delegates 50-50. This slightly favors HRC and dilutes BHO because he currently has a delegate lead, and that would go down after a 50-50 split. A minor point.)<br><br>
+3. Then all that's left in question is HRC's self-respect. If she wants to keep some of it, she'll bow out gracefully and tell her supporters to make it unanimous in Denver, or she won't and will probably retain her Senate seat as long as she wants but will always be a Democratic Party outsider. It probably won't bode well for her husband as an elder statesman, and there goes Chelsea's chance to run for President in 2024. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/30/howTheDemocraticProcessWil.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/30/2008; 10:48:46 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/30/howTheDemocraticProcessWil.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('pigs');"><img border="0" align="left" id="img_pigs" src="http://www.scripting.com/mktree/plus.gif"></a>Pigs&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/pigs.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="pigs" name="pigs">
+<a href="http://www.flickr.com/photos/scriptingnews/2372229323/"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/29/sweetLittlePig.jpg" width="172" height="189" border="0" alt="A picture named sweetLittlePig.jpg"></a><br><br>
+A little pig came up to me while I was waiting at a stop light in <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Walnut+Creek,+CA&ie=UTF8&z=12&iwloc=addr">Walnut Creek</a>. <br><br>
+He squealed "Pssst down here." I looked down. The pig looked up at me and asked: "Can you keep a secret?" <br><br>
+I don't know, I said. It depends.<br><br>
+"Oh hell," said the pig. "I'll tell you anyway."<br><br>
+"You know how Amazon has all those great web services."<br><br>
+Yes, I said, I use them and they're great. <br><br>
+"Well how would you like to get all those services and more, and get to run software in Google's cloud, just like all the people at Google do?"<br><br>
+Yes, I would, I said, wondering how much this would cost.<br><br>
+"How much would it cost?" I asked.<br><br>
+"That's the best part," said the little pig. "For a guy like you, a blogger, with modest needs, it would be free."<br><br>
+I bent down and gave the pig a kiss on the cheek and said "You're a very nice little pig."<br><br>
+The light changed and I crossed the street. I noticed the pig was stopping the next person and asked if he could keep a secret.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/29/pigs.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/29/2008; 9:35:59 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/pigs.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('aDigitalCameraDesignedForB');"><img border="0" align="left" id="img_aDigitalCameraDesignedForB" src="http://www.scripting.com/mktree/plus.gif"></a>A digital camera designed for bloggers?&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/aDigitalCameraDesignedForB.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="aDigitalCameraDesignedForB" name="aDigitalCameraDesignedForB">
+I really like the way my iPhone works for publishing pictures. <br><br>
+I have it wired up so that I can send an email to Flickr. And then I have a script watching my Flickr feed that routes new pictures to Twitter where 6000-plus people follow my feed. <br><br>
+The only problem is that the iPhone is a shitty camera. It's great for pictures where quality isn't the most important thing, but timeliness and convenience are.<br><br>
+So what if I wanted to buy a new camera, in 2008, surely one must have the ability to send a picture to Flickr the way my iPhone does? Without thinking about it too much it seems like it must be possible, but then there aren't an camers that are also phones (there <i>are</i> of course other phones that are cameras). But I want the quality of a Nikon or Canon with the communication ability of an iPhone or Nokia.<br><br>
+I'm sure nothing like this exists, but I thought I should ask. <br><br>
+PS: I'd settle for really clean simple wifi access. I'm tired of the mess of tethering via USB. And I'm looking for a camera that costs no more than $250 on Amazon.<br><br>
+PPS: Instantly I'm overwhelmed with pointers to <a href="http://eye.fi/">http://eye.fi/</a> -- yes of course I've heard of them, and even been told by a friend who has one that it works great. My mind forgot about it until now. Of course now the flood will not abate. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/29/aDigitalCameraDesignedForB.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/29/2008; 12:41:49 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/aDigitalCameraDesignedForB.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('weMakeShittySoftwareAndOth');"><img border="0" align="left" id="img_weMakeShittySoftwareAndOth" src="http://www.scripting.com/mktree/plus.gif"></a>We Make Shitty Software, and other long tales&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/weMakeShittySoftwareAndOth.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="weMakeShittySoftwareAndOth" name="weMakeShittySoftwareAndOth">
+<a href="http://www.scripting.com/stories/2007/08/29/rememberTheSocialCameraItE.html"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/29/fujiFilmCamera.jpg" width="105" height="161" border="0" align="right" hspace="15" vspace="5" alt="A picture named fujiFilmCamera.jpg"></a>We're having a bit of rain this morning in the Bay Area. It's the best thing this time of year. All the plants, bushes and trees are in bloom, but they could all use (it seems to me) one more good soaking. One last rain before the final bloom, then we settle into a long period of beautiful sunny days that will last till late fall when it starts raining again.<br><br>
+In the news, violence is up in Iraq, and Bush is making speeches about it again. First thought that popped into my head -- I wonder who he's going to blame this time. It's never the people in Iraq or even the insurgents, certainly not the military, and absolutely not the DOD or god forbid, the President. It's almost always liberals, even though he doesn't use the word (possibly because it would seem so insane). It seems if we're not taxing and spending we're running away with our tails between our legs, on behalf of Bush and his <a href="http://images.scripting.com/archiveScriptingCom/2008/03/29/cabinet.jpg">team</a> of super-heroes.<br><br>
+Is this really a question of guts and determination? How much determination does it take before you get the idea that <i>it isn't working.</i> Are the people who think this is a waste of two countries, ours and theirs, really weak people who won't rise to a challenge, cowards who want to cut and run. We've been hearing for a long time that nirvana is just around the corner, but it's a long road ahead. I heard a Republic spokesperson actually have the gall to say that again on Face The Nation last Sunday. A long road ahead. I think they misunderestimate our interest in long roads in Iraq. Like the last rain of last winter, one can only hope this kind of idiotic double-talk will soon be behind us.<br><br>
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/29/littlebuddies.jpg" width="105" height="131" border="0" align="right" hspace="15" vspace="5" alt="A picture named littlebuddies.jpg">One more thought. The Republic is a guy named Lindsey Graham, Senator from South Carolina, one of two little guys often seen behind the little guy running for President, John McCain. The other is "Little Joe" Lieberman. I wondered what's inside Graham's head. He can't be stupid, I never believe people are stupid until there's no other explanation that fits the facts. So I wonder why he's so hell-bent on us staying in Iraq even though it's still a long road (though we're just about to turn the corner). What's his story? When they talk about it between themselves, the little guys -- Joe, John and Lindsey, I can't imagine they say the same bullshit they say on TV. What do they <i>really</i> think about this?<br><br>
+On to the next seemingly endless war...<br><br>
+As I've written here, a number of times, there was a pretty bad scene at Gnomedex last August, and foolishly, I got myself mixed up in it. I apologized for doing so, and I stick by that apology. <br><br>
+There were two versions of what happened, and I'm happy to say that Chris Pirillo, the organizer of the conference, finally spoke up and told <a href="http://chris.pirillo.com/2008/03/27/the-twitter-effect-dont-shoot-the-messenger/">his version</a> of the story. <br><br>
+For the most part I agree with what Chris said. I think he should have spoken sooner, it would have saved me a lot of grief, for sure.  Perhaps next time you hear <a href="http://eyeonwiner.org/archives/2008/jason-calacanis-on-dave-winer">another version</a> of this story, you could tell the person telling the tale to give it up. <br><br>
+I've been told by lots of people that they like it when these blowups happen, they find it entertaining. I understand, but I don't like being part of these things. So much so that I don't go to many conferences. It's just not worth it. <br><br>
+The whole point of the blogosphere was that we flatten things out, that we're all just people. I'm a creative guy, in that I like to create things. I don't wake up every morning thinking who I can pick a fight with. I know other people do, and sometimes they try to engage me in those fights. <br><br>
+On the other hand, I also hate being lied to and I want to buy products that I admire, and expose products that are scams. That's another important function of blogs. Sometimes that means there's a fight coming, because people with dishonest proposals usually don't want to be exposed. I get that. And sometimes they respond to honest criticism with personal attacks, hoping to shred the critic so other people won't notice the defect in their pitch. That will lead to fights. <br><br>
+I used to admire Microsoft for their willingness to be criticized. It was really something. If you said their product sucked, they drew you closer to find out why you thought that. Every so often you see that culture in a company and you know you've found a winner. People who are willing to work with you to make your product better are like nuggets of gold, you just need a few of them to guide you to success.<br><br>
+I've long thought that newspapers should have the same approach. The NY Times <a href="http://publiceditor.blogs.nytimes.com/">public editor</a> shouldn't be a journalist, he or she should be a member of the public, a user of their product. Point of view is everything. You'd think the editors of a great paper would understand that. They have long had disagreeable people on their op-ed page knowing that there's much to be learned from what they say, even if you don't agree with their conclusions (though I wonder wtf <a href="http://en.wikipedia.org/wiki/William_Kristol">Bill Kristol</a> is doing there).<br><br>
+I said recently to Chris Anderson, the editor in chief of Wired, that they should have some bloggers on staff to critique their work from a reader's point of view. The thought went nowhere, he says they already have bloggers (I know many of them, and they're fine people). I wonder what they think a blog is? I imagine it has something to do with the tools. To me it's <a href="http://blogs.law.harvard.edu/whatmakesaweblogaweblog.html">so much more</a>.<br><br>
+As we approach the 11th birthday of Scripting News, I had a little free time the other day and cobbled up a dynamic page that says how many years old the blog is, with 10 digits precision. <a href="http://age.scripting.com/">http://age.scripting.com/</a> <br><br>
+Looping back to my <a href="http://www.scripting.com/stories/2008/03/20/myNameIsDaveAndImARacist.html">disclaimer</a> of being a racist, a bunch of people said I'd catch hell for it, but I haven't, at least not yet. There's proof that change is possible. The other day Condoleeza Rice, our Secretary of State, a black woman, <a href="http://www.npr.org/blogs/news/2008/03/sec_of_state_rice_us_has_birth_1.html">said</a> that our country has a birth defect about race. Here's another first -- who ever thought it would be possible for me to express admiration for Ms. Rice, one of the most shameless liars and double-talkers of the Republic Party. She must be running for something. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+Haven't done one of these morning rambles in a while. Thanks for listening. Now I have some work to do, fixing bugs, <a href="http://www.scripting.com/davenet/1995/09/03/wemakeshittysoftware.html">creating new ones</a>, etc.<br><br>
+Update: <a href="http://www.scripting.com/stories/2008/03/29/randomMorningBlogPosts.html#comment-279937">Comments</a> on an earlier version of this post.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/29/weMakeShittySoftwareAndOth.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/29/2008; 9:20:02 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/29/weMakeShittySoftwareAndOth.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('areYouUsingFirefox3');"><img border="0" align="left" id="img_areYouUsingFirefox3" src="http://www.scripting.com/mktree/plus.gif"></a>Are you using Firefox 3?&nbsp;<a href="http://www.scripting.com/stories/2008/03/28/areYouUsingFirefox3.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="areYouUsingFirefox3" name="areYouUsingFirefox3">
+If so, what do you think?<br><br>
+<a href="http://www.mozilla.com/en-US/firefox/all-beta.html">http://www.mozilla.com/en-US/firefox/all-beta.html</a> <br><br>
+If not, will you? When?<br><br>
+<a href="http://www.scripting.com/stories/2008/03/28/areYouUsingFirefox3.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/28/2008; 11:21:19 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/28/areYouUsingFirefox3.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('whyCantWeAllJustGetAlong');"><img border="0" align="left" id="img_whyCantWeAllJustGetAlong" src="http://www.scripting.com/mktree/plus.gif"></a>Why can't we all just get along?&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/whyCantWeAllJustGetAlong.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="whyCantWeAllJustGetAlong" name="whyCantWeAllJustGetAlong">
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/26/jewWrestler.jpg" width="95" height="136" border="0" align="right" hspace="15" vspace="5" alt="A picture named jewWrestler.jpg">It was a friendly <a href="http://www.scripting.com/stories/2008/03/26/livebloggingFromMozilllaPr.html">meeting</a> today, but not without the usual competitive spirit between the Mozilla camp and the Microsoft camp. <br><br>
+Mozilla engineering VP, Mike Schroepfer explained that Microsoft tends to implement technology already approved by the standards working groups, in a different way, and then says their implementation is the standard. Sounds like something <a href="http://www.youtube.com/watch?v=uHVEDq6RVXc">Hillary Clinton</a> would <a href="http://tpmelectioncentral.talkingpointsmemo.com/2008/03/in_letter_a_dozen_top_clinton.php">do</a>, until you realize that the Mozilla guys do it too. Basically everyone does it, when they feel the competitive technology is implemented by someone smaller or less significant than themselves. And since this is a very immature business, everyone feels that way about everyone else, so it's something of a miracle when interop happens.<br><br>
+It has always been thus.<br><br>
+When Netscape, the company that spawned Mozilla, wanted to implement a format for content syndication in 1999, they did it outside of the W3C because they were sick of the dirty politics bigger companies that felt more significant had been using against them. There <i>was</i> prior art, but they trampled it, because (you guessed) they felt more significant than those that came before.<br><br>
+The trick is to get over that feeling, and to adopt something specifically <i>because</i> it comes from someone you feel superior to.<br><br>
+<i>Be the change you seek.</i><br><br>
+I pointed out to Mike that three real religions, Christianity, Islam and Judaism, religious causes that great wars have been fought over, for 2000-plus years, are just forks of the same religion and bible with emphasis placed on different characters, they are basically compatible. Isn't that amazing? <br><br>
+In tech, where wars are between nerds who drink Jolt and read Microserfs, and couldn't fight a real war if our lives depended on it, why can't we at least agree to use the same names for elements of our XML that do the same damned thing? <br><br>
+Something to think about!<br><br>
+<a href="http://s10.video.blip.tv/1410001766659/Scriptingnews-BathtimeInClerkenwell798.mov"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/26/parents.gif" width="101" height="88" border="0" alt="A picture named parents.gif"></a><br><br>
+End of editorial. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/26/whyCantWeAllJustGetAlong.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/26/2008; 7:27:35 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/whyCantWeAllJustGetAlong.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('almost11YearsOld');"><img border="0" align="left" id="img_almost11YearsOld" src="http://www.scripting.com/mktree/plus.gif"></a>Almost 11 years old&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/almost11YearsOld.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="almost11YearsOld" name="almost11YearsOld">
+Here's how old Scripting News is, in years.<br><br>
+double (clock.now () - date ("4/1/97")) / (60*60*24*365.25)<br><br>
+10.98654578<br><br>
+Pretty close to 11!<br><br>
+Hot dam.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/26/almost11YearsOld.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/26/2008; 8:03:17 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/almost11YearsOld.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('blockwithtimeoutForTwitter');"><img border="0" align="left" id="img_blockwithtimeoutForTwitter" src="http://www.scripting.com/mktree/plus.gif"></a>Block-with-Timeout for Twitter&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/blockwithtimeoutForTwitter.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="blockwithtimeoutForTwitter" name="blockwithtimeoutForTwitter">
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/26/spaceWoman.jpg" width="66" height="193" border="0" align="right" hspace="15" vspace="5" alt="A picture named spaceWoman.jpg">I need a new command in Twitter -- a temporary unfollow, or viewed another way, a block-with-timeout. Same idea.<br><br>
+I need it when someone is at a conference I don't care about, live-blogging every detail. After 30 or 40 updates, I gotta stop it, it's interfering with other posts. But I don't want to complain. I just want to go silently. But tomorrow when the event is over, I want to (silently) resume the follow. <br><br>
+Problem with normal unfollow, is that: 1. I have to remember to re-follow and 2. When I do, they'll get an email. This is confusing and can cause hurt feelings. Not my intention. I just don't want all the details of this conference (or someone live-blogging an event I'm watching live or on TV). <br><br>
+<a href="http://www.scripting.com/stories/2008/03/26/blockwithtimeoutForTwitter.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/26/2008; 7:11:49 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/blockwithtimeoutForTwitter.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('livebloggingFromMozilllaPr');"><img border="0" align="left" id="img_livebloggingFromMozilllaPr" src="http://www.scripting.com/mktree/plus.gif"></a>Live-blogging from Mozillla press meeting&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/livebloggingFromMozilllaPr.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="livebloggingFromMozilllaPr" name="livebloggingFromMozilllaPr">
+If you have questions for the people at Mozilla, post a comment and I'll try to ask it.<br><br>
+<a href="http://www.flickr.com/photos/scriptingnews/2363791357/"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/26/meeting.jpg" width="275" height="238" border="0" alt="A picture named meeting.jpg"></a><br><br>
+About 1/2 hour into the meeting I don't really have any overall idea of what they're doing with Firefox 3. I know other people are using it, I'm still using v2. I tried v3 beta but found that it was too awkward a transition. (Wish I remember what it was that was so awkward.)<br><br>
+"Better faster safer" -- the slogan for Firefox 3.<br><br>
+They put up some screen shots and I recalled clearly what the problem was -- they moved the Home button. <br><br>
+They call the new address bar <i>The Awesome Bar,</i> which is very Steve Jobs-like in my humble opinion. Boom! <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.google.com/search?q=awesome+bar+mozilla">http://www.google.com/search?q=awesome+bar+mozilla</a> <br><br>
+They're talking about Weave...<br><br>
+<a href="http://labs.mozilla.com/2007/12/introducing-weave/">http://labs.mozilla.com/2007/12/introducing-weave/</a> <br><br>
+I believe this is <a href="http://www.flickr.com/photos/scriptingnews/2363890607/">Asa Dotzler</a> world-famous Mozilla <a href="http://weblogs.mozillazine.org/asa/archives/2008/03/mozilla_blogger.html">blogger</a>.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/26/livebloggingFromMozilllaPr.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/26/2008; 11:27:35 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/livebloggingFromMozilllaPr.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('whyClintonSupportersMightF');"><img border="0" align="left" id="img_whyClintonSupportersMightF" src="http://www.scripting.com/mktree/plus.gif"></a>Why Clinton supporters might flock to McCain&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/whyClintonSupportersMightF.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="whyClintonSupportersMightF" name="whyClintonSupportersMightF">
+According to a <a href="http://www.gallup.com/poll/105691/McCain-vs-Obama-28-Clinton-Backers-McCain.aspx">Gallup poll</a>, 28 percent of Democrats who support Hillary Clinton say they will vote for McCain if Obama is the Democratic nominee.<br><br>
+Two reasons this might be so..<br><br>
+1. Clinton has been campaigning against Obama, and <i>for</i> McCain. It's working with some of her supporters.<br><br>
+2. So far no Democrats have been running against McCain, exploring his weakness. He still looks relatively good. That'll probably change. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/26/whyClintonSupportersMightF.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/26/2008; 8:50:34 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/26/whyClintonSupportersMightF.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('friendfeedApiAnnounced');"><img border="0" align="left" id="img_friendfeedApiAnnounced" src="http://www.scripting.com/mktree/plus.gif"></a>FriendFeed API announced&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/friendfeedApiAnnounced.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="friendfeedApiAnnounced" name="friendfeedApiAnnounced">
+I've been talking with the folks at FriendFeed about APIs and such, and boy do they move fast. I got the first draft of the API spec on Friday, and today it's out there.<br><br>
+<a href="http://code.google.com/p/friendfeed-api/wiki/ApiDocumentation">http://code.google.com/p/friendfeed-api/wiki/ApiDocumentation</a> <br><br>
+Here's the <a href="http://blog.friendfeed.com/2008/03/friendfeed-api-extend-and-improve.html">blog post</a> announcing the API. <br><br>
+Glue for the OPML Editor will ship soon, delayed a bit by tomorrow's press event at Mozilla in Mountain View. <br><br>
+FriendFeed will be supported in my software in all the places Pownce is.<br><br>
+There's a lot of movement in the TwitterSphere these days. I was hoping that the FriendFeed API would be a clone of the Twitter API. It's not. But it is workable and exposes features, including <a href="http://www.scripting.com/stories/2007/09/30/payloadsForTwitterRoundTwo.html">Payloads</a> that are not implemented by Twitter.  <br><br>
+Next question is how scalable FriendFeed is. <br><br>
+I'm going to visit with them in Mountain View tomorrow.<br><br>
+Exciting times! <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/25/friendfeedApiAnnounced.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/25/2008; 5:07:42 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/friendfeedApiAnnounced.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('cantYouSee');"><img border="0" align="left" id="img_cantYouSee" src="http://www.scripting.com/mktree/plus.gif"></a>Can't you see?&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/cantYouSee.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="cantYouSee" name="cantYouSee">
+<a href="http://www.barelypolitical.com/obama-girl/episode/hill_get_out_20070324"><img src="http://images.scripting.com/archiveScriptingCom/2008/03/25/cantYouSee.jpg" width="300" height="269" border="0" alt="A picture named cantYouSee.jpg"></a><br><br>
+<a href="http://www.scripting.com/stories/2008/03/25/cantYouSee.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/25/2008; 6:28:07 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/cantYouSee.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('iphoneMaintenenceTime');"><img border="0" align="left" id="img_iphoneMaintenenceTime" src="http://www.scripting.com/mktree/plus.gif"></a>iPhone maintenence time&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/iphoneMaintenenceTime.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="iphoneMaintenenceTime" name="iphoneMaintenenceTime">
+Let's see -- I've had my <a href="http://www.google.com/search?q=site%3Ascripting.com+iphone">iPhone</a> since June 29, so that's...<br><br>
+<font size="-1">number (clock.now () - date ("6/29/2007")) / (60*60*24)</font><br><br>
+270 days.  In that time apparently it's been downloading all my non-spam mail from Gmail, and now periodically interrupts me to say my mailbox is 92 percent full, would I please delete some of my mail. <br><br>
+I finally had a minute, on the BART the other day, to look into deleting mail, and it appears to be an <a href="http://www.tech-recipes.com/rx/2463/iphone_how_to_delete_email">onerous process</a> to do for thousands of messages. First you tap the mail message, then tap the red minus sign, then tap the Delete button. They want to be sure you're sure (no Undo). <br><br>
+Problem is -- I only use the Mail app to send pictures to Flickr. On the rare occasion that I want to check email on my iPhone, I just use the excellent mobile version of Gmail. So I never want the email from the Mail app.<br><br>
+So I guess I have two questions:<br><br>
+1. How to mass-delete all the mail that's filling up 92 percent of the allocated space. <br><br>
+2. How to tell the mail app that I don't want it to fetch mail. (This is probably something I'm paying a fair amount for, btw.)<br><br>
+Any suggestions would be most welcome. (And I suspect the iPhone Nazis out there will use this as an example of my ineptitude for years to come. Have fun!)<br><br>
+Bonus: <a href="http://www.youtube.com/watch?v=WZ3AOmZ2fps">The Soup Nazi</a> from Seinfeld. <br><br>
+PS: I've tried deleting the account and adding it back. No luck. The mail is still there. <br><br>
+PPS: <a href="http://twitter.com/jonfingas/statuses/776908153">Apparently</a> mass-delete is new with iPhone 2.0.<br><br>
+<a href="http://www.scripting.com/stories/2008/03/25/iphoneMaintenenceTime.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/25/2008; 9:28:02 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/25/iphoneMaintenenceTime.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('friendfeedMovesIntoTwitter');"><img border="0" align="left" id="img_friendfeedMovesIntoTwitter" src="http://www.scripting.com/mktree/plus.gif"></a>FriendFeed moves into TwitterSpace&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/friendfeedMovesIntoTwitter.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="friendfeedMovesIntoTwitter" name="friendfeedMovesIntoTwitter">
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/24/gumby.jpg" width="85" height="164" border="0" align="right" hspace="15" vspace="5" alt="A picture named gumby.jpg">We said a couple of weeks ago that FriendFeed is gaining a lot of traction. Since then we've started a background conversation and have been giving them a bit of friendly advice (heh, sorry). Today they <a href="http://blog.friendfeed.com/2008/03/post-your-friendfeed-comments-back-to.html">added a feature</a> that brings it closer to Twitter, and in some ways takes it to a place Twitter hasn't reached yet.<br><br>
+FriendFeed, in addition to being an aggregator also <a href="http://friendfeed.com/e/e411eb83-c212-6fee-7372-1e8efe95c3ba">allows you to post</a> directly to other FriendFeed users who are following you, and it has a threaded comment system that allows you to post a response to anything that FF has discovered. But how do you read those responses elsewhere, and how do you know to go see if FF has anything you might be interested in? They have ways to deal with this, but none are as neat as the one they introduced today, if you use Twitter.<br><br>
+The feature: You can optionally route comments from FriendFeed to Twitter (if the original message came from Twitter) as a reply. <br><br>
+Nothing more to say than yes, this is the right thing to do, and yes it is neat, and also it's nice to see Twitter get some competition. We know that products that have competition get better, and ones that don't generally have no incentive to. Considering that it would be good, imho, if Twitter were a little more active in adding features (I know others feel differently) it's good that FF is applying a little friendly (arrrgh) pressure. <br><br>
+And to people who thought Scripting News had become 100 percent politics all the time, here's proof that it's not. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->">'<br><br>
+PS: Just <a href="http://friendfeed.com/e/e411eb83-c212-6fee-7372-1e8efe95c3ba">tested</a> the new feature. It <a href="http://twitter.com/davewiner/statuses/776498781">works</a>. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/24/friendfeedMovesIntoTwitter.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/24/2008; 5:38:47 PM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/friendfeedMovesIntoTwitter.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('twittergramFunctionalityBa');"><img border="0" align="left" id="img_twittergramFunctionalityBa" src="http://www.scripting.com/mktree/plus.gif"></a>TwitterGram functionality baked into FlickrFan&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/twittergramFunctionalityBa.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="twittergramFunctionalityBa" name="twittergramFunctionalityBa">
+I've been meaning to do this for some time...<br><br>
+Just released a <a href="http://codecasting.org/photoFan/00031.html">new feature</a> in FlickrFan that allows it to do for pictures what TwitterGram does. <br><br>
+You can set it up to check for new pics in your Flickr account and when it spots one, automatically post it to Twitter.<br><br>
+You can set the interval, so it can check every minute if you like, for virtually instant publishing. I like to use this to take pics on my walks and share them with my Twitter friends while I'm still out and about. GIves me a sense that the Twittersphere is on the walk with me. <br><br>
+Yes, I know I need to make this work with Pownce too. And other instant social networks like Jaiku and others. <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+If you want to try it out and have FlickrFan running, follow the <a href="http://codecasting.org/photoFan/00031.html">instructions here</a>. There's also a place to comment and ask questions. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/24/twittergramFunctionalityBa.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/24/2008; 11:18:31 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/twittergramFunctionalityBa.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('statusOnCampaignConference');"><img border="0" align="left" id="img_statusOnCampaignConference" src="http://www.scripting.com/mktree/plus.gif"></a>Status on campaign conference call MP3s&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/statusOnCampaignConference.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="statusOnCampaignConference" name="statusOnCampaignConference">
+<img src="http://images.scripting.com/archiveScriptingCom/2008/03/24/justice.gif" width="85" height="157" border="0" align="right" hspace="15" vspace="5" alt="A picture named justice.gif">We begin this week where we began the last. Thanks to McClatchy, we're getting almost half of the conference call MP3s. But that's not half as good as getting them all, not close. <br><br>
+Imagine getting a trial transcript with more than 1/2 the testimony missing. Some days you get the words used by the defense, other days, the prosecution. Never both. <br><br>
+Our pleas openly stated in public and expressed privately, have gone mostly for naught. Occasionally there's a nibble, but never any followup.<br><br>
+I have excellent contacts in the Internet parts of the Obama campaign, but emails on this subject have gone unanswered. The Clinton campaign was worse, they thought I was signing up to support the candidate and suggested I give money, stuff envelopes, etc.<br><br>
+I've been in touch with numerous professional news organizations, with reporters, editors, and technical people. I don't want to say who because I don't want to embarass anyone. <br><br>
+Dan Gillmor, in a private exchange, a former tech journalist at the SJ Merc-News, volunteered a perspective that's common-sense and refreshing. This is their job, at the news organizations, to provide readers with information, not to control the flow of news and spin it for us, rather pass it through transparently, so we can make up our own minds.<br><br>
+I consume lots of professional journalism, and it's sad and angering that so <a href="http://www.huffingtonpost.com/harry-shearer/mccain-gaffe-it-wasnt_b_92945.html">much</a> of what they report as the mood of the people is really <i>their</i> mood, based on no actual  information. Because no one can expose them, they get sloppy, it builds over the years. <br><br>
+It's outrageous to me, listening to them talk about the Wright tapes, they're getting it wrong.  I have actually watched the videos. Have they? Either they have or they haven't. If not, it's grossly irresponsible. If they have, it's criminal, the way they deliver incorrect conclusions and show misleading evidence. When all the networks do the same thing, it's collusion, anti-trust, conspiracy. <br><br>
+Sometimes, rarely, a little <a href="http://www.huffingtonpost.com/linda-milazzo/truth-on-cnn-pundits-def_b_92965.html">truth</a> leaks out. <br><br>
+So no, I don't trust them, and as journalists like to say, if your mother says she loves you, check it out. They need fact-checking to keep them honest, that's why we need the source material. <br><br>
+I had the image yesterday, listening to the Meet The Press podcast, of irresponsible children throwing around lit sticks of dynamite in the middle of a sacred library. Our democracy is at its most vulnerable right now, and they're behaving as if it was a sporting event. Because I listen to the actual words the candidates and their representatives use, I know when they're lying. Of course this is the real reason they don't want to help us get the MP3s. They may not be conscious of it, but it's the reason. <br><br>
+However, I'm sure that eventually we'll get them. <br><br>
+<a href="http://www.scripting.com/stories/2008/03/24/statusOnCampaignConference.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/24/2008; 2:49:45 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/statusOnCampaignConference.html#disqus_thread"></a></font><br>
+</div>
+
+<h4><a href="javascript:expandCollapse('nowThatYouMentionIt');"><img border="0" align="left" id="img_nowThatYouMentionIt" src="http://www.scripting.com/mktree/plus.gif"></a>Now that you mention it...&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/nowThatYouMentionIt.html"><img src="http://www.scripting.com/images/leftArrow.gif" width="11" height="9" border="0" alt="Permanent link to this item in the archive."></a></h4>
+<div class="hide" id="nowThatYouMentionIt" name="nowThatYouMentionIt">
+I was reading Newsweek's <a href="http://www.newsweek.com/id/128633">story</a> on why Barack Obama asked people to stop calling him Barry and use his more formal name, and I remembered that I had a grandmother who was different in the same way Obama did. <br><br>
+My mixed heritage isn't so obvious as his because all my grandparents are white, but the difference may be even more dramatic than his because of the time I grew up.<br><br>
+My maternal grandmother was pure German, blonde hair, blue eyes. She married a Jew, my grandfather, in Europe, before the war. I loved my grandmother, but she could say the most hurtful things, even as a child I knew there was a good chance she knew what she was doing. I never fully understood the issues of Jews and Germans, but they were all right there in her house in <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=neponsit,+ny&ie=UTF8&ll=40.57374,-73.863165&spn=0.009486,0.017531&t=h&z=16&layer=c">Rockaway Beach</a>.<br><br>
+So when I wrote the <a href="http://www.huffingtonpost.com/dave-winer/what-if-i-a-jew-lived-i_b_92971.html">story</a> on Saturday wondering what it would be like now if I had grown up in Germany instead of the U.S., I was unconsciously writing a story that actually happened.<br><br>
+I have to think about this. <br><br>
+One thing's for sure, the last week has been an incredible week of growth for me, largely due to the conversation we're having here at a national, even international level (a lot of the response to the piece was from Europeans).<br><br>
+Also, the quality of the <a href="http://www.scripting.com/stories/2008/03/22/whatIfILivedInGermany.html#p12">discourse</a>, as always, is very high. Keep up the good work everybody! <img src="http://www.scripting.com/gifs/QBullets/qbullets/sidesmiley.gif" width="11" height="11" border="0" alt=";->"><br><br>
+<a href="http://www.scripting.com/stories/2008/03/24/nowThatYouMentionIt.html"><img src="http://www.scripting.com/images/2001/09/20/sharpPermaLink3.gif" width="6" height="9" border="0" alt="Permanent link to this item in the archive."></a>&nbsp;<font size="-2" color="gray">3/24/2008; 2:32:40 AM&nbsp;&nbsp;<a href="http://www.scripting.com/stories/2008/03/24/nowThatYouMentionIt.html#disqus_thread"></a></font><br>
+</div>
+
+				</td>
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				</td>
+			<td valign="top" width="200">
+				<center>
+					<br>
+					<p><p><table><tr><td><font size="-1"><b>Last&nbsp;update</b>:&nbsp;Saturday, April 05, 2008 at 5:59 PM Pacific.</font></td></tr></table></p><p>
+					<!-- I'm a California voter for Obama -->
+						<p>
+						<a href="http://www.scripting.com/stories/2008/01/28/imACaliforniaVoterForObama.html"><img src="http://images.scripting.com/archiveScriptingCom/2008/02/05/obama.gif" width="180" height="96" border="0" alt="I'm a California voter for Obama."></a>
+						</p>
+					<p><font size="-1">
+	<p><a href="http://flickr.com/photos/scriptingnews/2209070679/"><img src="http://images.scripting.com/archiveScriptingCom/2008/01/21/dave.jpg" width="64" height="90" border="0" align="right" hspace="15" vspace="5" alt="A picture named dave.jpg"></a><i>Dave Winer, 52, pioneered the development of weblogs, syndication (RSS), podcasting, outlining, and web content management software; former contributing editor at Wired Magazine, research fellow at Harvard Law School, entrepreneur, and investor in web media companies. A native New Yorker, he received a Master's in Computer Science from the University of Wisconsin, a Bachelor's in Mathematics from Tulane University and currently lives in Berkeley, California.</i></p>
+	<i><p>"The&nbsp;protoblogger."</i>&nbsp;- <a href="http://www.nytimes.com/2006/12/02/business/02online.html?ex=1322715600&en=c3da3b8d4273449c&ei=5090&partner=rssuserland&emc=rss">NY&nbsp;Times</a>.
+	<p><i>"The father of modern-day content distribution."</i> - <a href="http://www.pcworld.com/article/id,129301-page,9-c,techindustrytrends/article.html">PC World</a>.
+	<p>One of <a href="http://images.businessweek.com/ss/07/09/0924_25webinfluencers/source/24.htm">BusinessWeek's</a> 25 Most Influential People on the Web.</p>
+	<p><i>"Helped popularize blogging, podcasting and RSS."</i> - <a href="http://www.time.com/time/magazine/article/0,9171,1570705,00.html">Time</a>.
+	<p><i>"The father of blogging and RSS."</i> - <a href="http://news.bbc.co.uk/1/hi/technology/6748103.stm">BBC</a>.
+	<p><i>"RSS was born in 1997 out of the confluence of Dave Winer's 'Really Simple Syndication' technology, used to push out blog updates, and Netscape's 'Rich Site Summary', which allowed users to create custom Netscape home pages with regularly updated data flows."</i> - <a href="http://tim.oreilly.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html?page=3">Tim O'Reilly</a>.
+	</font>
+<br><br><a href="http://www.scripting.com/dwiner/">Dave&nbsp;Winer</a>&nbsp;<a href="http://www.scripting.com/stories/2007/04/02/newMailAddress.html"><img src="http://images.scripting.com/archiveScriptingCom/2005/10/17/mailto.gif" width="14" height="10" border="0"alt="Mailto icon"></a></p>
+					<p><font size="-1">My <a href="http://twitter.com/davewiner">most recent trivia</a> on Twitter.</font></p>
+					<p><font size="-1"><b>On This Day In</b>: <a href="http://www.scripting.com/2007/04/05.html">2007</a> <a href="http://www.scripting.com/2006/04/05.html">2006</a> <a href="http://www.scripting.com/2005/04/05.html">2005</a> <a href="http://www.scripting.com/2004/04/05.html">2004</a> <a href="http://www.scripting.com/2003/04/05.html">2003</a> <a href="http://www.scripting.com/2002/04/05.html">2002</a> <a href="http://www.scripting.com/2001/04/05.html">2001</a> <a href="http://www.scripting.com/2000/04/05.html">2000</a> <a href="http://www.scripting.com/1999/04/05.html">1999</a> <a href="http://www.scripting.com/1998/04/05.html">1998</a> <a href="http://www.scripting.com/1997/04/05.html">1997</a>.</font></p>
+					<table cellspacing="0" border="0">
+	<tr><td colspan="7"><font size="+0"><center><b>April 2008</b></center></font></td></tr>
+	<tr>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Sun</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Mon</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Tue</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Wed</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Thu</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Fri</center></font></td>
+		<td width="19" height="10"><font size="-2" color="gray"><center>Sat</center></font></td>
+		</tr>
+	<tr>
+		<td colspan="2">&nbsp;</td>
+		<td height="10"><font size="-2" color="black"><center><a href="http://archive.scripting.com/2008/04/01">1</a></center></font></td>
+		<td><font size="-2" color="black"><center><a href="http://archive.scripting.com/2008/04/02">2</a></center></font></td>
+		<td><font size="-2" color="black"><center><a href="http://archive.scripting.com/2008/04/03">3</a></center></font></td>
+		<td><font size="-2" color="black"><center><a href="http://archive.scripting.com/2008/04/04">4</a></center></font></td>
+		<td><font size="-2" color="black"><center><b>5</b></center></font></td>
+		</tr>
+	<tr>
+		<td height="10"><font size="-2" color="black"><center>6</center></font></td>
+		<td><font size="-2" color="black"><center>7</center></font></td>
+		<td><font size="-2" color="black"><center>8</center></font></td>
+		<td><font size="-2" color="black"><center>9</center></font></td>
+		<td><font size="-2" color="black"><center>10</center></font></td>
+		<td><font size="-2" color="black"><center>11</center></font></td>
+		<td><font size="-2" color="black"><center>12</center></font></td>
+		</tr>
+	<tr>
+		<td height="10"><font size="-2" color="black"><center>13</center></font></td>
+		<td><font size="-2" color="black"><center>14</center></font></td>
+		<td><font size="-2" color="black"><center>15</center></font></td>
+		<td><font size="-2" color="black"><center>16</center></font></td>
+		<td><font size="-2" color="black"><center>17</center></font></td>
+		<td><font size="-2" color="black"><center>18</center></font></td>
+		<td><font size="-2" color="black"><center>19</center></font></td>
+		</tr>
+	<tr>
+		<td height="10"><font size="-2" color="black"><center>20</center></font></td>
+		<td><font size="-2" color="black"><center>21</center></font></td>
+		<td><font size="-2" color="black"><center>22</center></font></td>
+		<td><font size="-2" color="black"><center>23</center></font></td>
+		<td><font size="-2" color="black"><center>24</center></font></td>
+		<td><font size="-2" color="black"><center>25</center></font></td>
+		<td><font size="-2" color="black"><center>26</center></font></td>
+		</tr>
+	<tr>
+		<td height="10"><font size="-2" color="black"><center>27</center></font></td>
+		<td><font size="-2" color="black"><center>28</center></font></td>
+		<td><font size="-2" color="black"><center>29</center></font></td>
+		<td><font size="-2" color="black"><center>30</center></font></td>
+		<td colspan="3">&nbsp;</td>
+		</tr>
+	</table>
+<center><font size="-2"><b>
+	<a href="http://archive.scripting.com/2008/03/31">Mar</a>
+	&nbsp;
+	May
+	</b></font></center>
+
+					<!-- search box -->
+						<script type="text/javascript" src="http://www.lijit.com/informers/wijits?type=pvs&username=scriptingnews&js=1"></script><a style='color: #999' href='http://www.lijit.com' id='lijit_wijit_pvs_link'>Lijit Search</a>
+					<br><table><tr><td><font size="-1">
+	<b><a name="revisit"></a>Things to revisit:</b><p>
+		<table cellspacing="3" cellpadding="0">
+			<tr><td align="right"><font size="-1"><font size="-1">1.</font></td><td><font size="-1"><font size="-1"><a href="http://www.scripting.com/2006/12/22.html#When:11:23:26AM">Microsoft patent acid test</a>.</font></font></td></tr>
+			<tr><td align="right"><font size="-1"><font size="-1">2.</font></td><td><font size="-1"><font size="-1"><a href="http://www.scripting.com/2007/01/01.html#theUneditedVoiceOfAPerson">What is a weblog</a>?</font></font></td></tr>
+			<tr><td align="right"><font size="-1">3.</font></td><td><font size="-1"><a href="http://www.scripting.com/2006/08/03.html#makingMoneyWithAdsNotMuchLonger">Advertising R.I.P.</a></font></td></tr>
+			<tr><td align="right"><font size="-1">4.</font></td><td><font size="-1"><a href="http://www.scripting.com/2007/01/09.html#microsoftUsedToBeSmarter">How to embrace & extend</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">5.</font></td><td><font size="-1"><a href="http://www.scripting.com/2006/11/28.html#bubbleBurst20">Bubble Burst 2.0</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">6.</font></td><td><font size="-1"><a href="http://www.scripting.com/2006/12/05.html#thisIBelieve">This I Believe</a>.</font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">7.</font></td><td><font size="-1"><a href="http://www.scripting.com/2007/01/20.html#mostRssReadersAreDesignedWrong">Most RSS readers are wrong</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">8.</font></td><td><font size="-1"><a href="http://www.scripting.com/2006/03/19.html#whoIsPhilJones">Who is Phil Jones?</a></font></td></tr>
+			<tr><td align="right"><font size="-1">9.</font></td><td><font size="-1"><a href="http://www.scripting.com/2005/12/12.html#howToMakeMoneyOnTheInternetVersion3">Send them away</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">10.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/02/28/negotiateWithUsers.html">Negotiate with users</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">11.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/03/01/preservingIdeas.html">Preserving ideas</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">12.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/03/02/empireOfTheAir.html">Empire of the Air</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">13.</font></td><td><font size="-1"><a href="http://mp3.morningcoffeenotes.com/cn21Feb07.mp3">NPR speech</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">14.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/03/23/russoHaleOurLawFirmSuesUs.html">Russo & Hale</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">15.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/03/24/troubleAtTheChronicle.html">Trouble at the Chronicle</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">15.</font></td><td><font size="-1"><a href="http://cyber.law.harvard.edu/rss/rss.html">RSS 2.0</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">16.</font></td><td><font size="-1"><a href="http://checkboxnews.com/">Checkbox News</a>.</font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">17.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/04/28/spreadsheetCallsOverTheInt.html">Spreadsheet calls over the Internet</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">18.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/04/28/twitterAsCoralReef.html">Twitter as coral reef</a>.</font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">19.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/03/29/notLookingForSympathyOrAny.html">Mobs of the blogosphere</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">20.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/05/21/adviceForCampaigns.html">Advice for Campaigns</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">21.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/06/14/newIdeaSocialCameras.html">Social Cameras</a>.</font></td></tr>
+			<tr><td align="right"><font size="-1">22.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/06/17/theNextBigThing.html">The Next Big Thing</a>.</font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">23.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/06/17/itsTimeToOpenUpNetworkingA.html">It's time to open up networking, again</a>.</font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">24.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/06/25/amICompeting.html">Am I competing?</a></font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">25.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/09/19/timeToShakeUpConferences.html">Time to shake up conferences?</a></font></td></tr>
+			<tr><td align="right" valign="top"><font size="-1">26.</font></td><td><font size="-1"><a href="http://www.scripting.com/stories/2007/09/16/jeffJarvissConference.html">Bloggers working with journalists</a>.</font></td></tr>
+			</table>
+			<p>
+	<p><a href="http://www.pennandteller.com/03/coolstuff/tellerspeaks/telleressayportugal.html">Teller</a>: "To discover is not merely to encounter, but to comprehend and reveal, to apprehend something new and true and deliver it to the world."</p>
+	</font>
+</td></tr></table>
+					
+					<p><a href="http://changes.opml.org/"><img src="http://images.scripting.com/archiveScriptingCom/2005/08/10/changes.jpg" width="123" height="119" border="0" alt="Click here to see a list of recently updated OPML weblogs."></a></p>
+					<p><a href="http://www.technorati.com/search/www.scripting.com"><img src="http://images.scripting.com/archiveScriptingCom/2005/12/10/rati.jpg" width="43" height="40" border="0" alt="Click here to read blogs commenting on today's Scripting News."></a></p>
+					<p><a href="http://www.morningcoffeenotes.com/"><img src="http://images.scripting.com/archiveScriptingCom/2005/03/02/mcnWindow.gif" width="125" height="134" border="0" alt="Morning Coffee Notes, an occasional podcast by Scripting News Editor, Dave Winer."></a></p>
+					<p><a href="http://scripting.com/webcam/webcam.jpg"><img src="http://scripting.com/webcam/webcam.jpg" width="160" height="120" border="0" alt="KitchenCam 1.0"></a></p>
+					<br><br><a href="rss.xml"><img src="http://www.scripting.com/images/xml.gif" width="36" height="14" border="0" alt="Click here to see an XML representation of the content of this weblog."></a><br><br><a href="http://127.0.0.1:5335/system/pages/subscriptions?url=rss.xml" title="Click on the XML coffee mug to subscribe to &quot;&quot; in Radio UserLand."><img src="http://radio.weblogs.com/0001015/images/xmlCoffeeCup.gif" border="0" width="36" height="36"></a>
+
+					<p><a href="http://www.scripting.com/index.opml"><img src="http://images.scripting.com/archiveScriptingCom/2005/04/25/opml.gif" width="115" height="47" border="0" alt="Click here to view the OPML version of Scripting News."></a></p>
+					</center>
+				</td>
+		<tr><!-- footer -->
+			<td colspan="4">
+				<br><hr size=1 noshade>&copy; Copyright 1997-2008 Dave Winer.
+				<br><script language="JavaScript" type="text/javascript"><!--
+					var imageUrl = "http://counters.scripting.com/counters/count.gif";
+					var imageTag = "<img src=\"" + imageUrl + "?group=scriptingNews&referer=" + escape (document.referrer) + "\" height=\"1\" width=\"1\">";
+					document.write (imageTag);
+					--></script>
+				<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+					<script type="text/javascript">
+					_uacct = "UA-121485-2";
+					urchinTracker();
+					</script>
+				<script type="text/javascript">
+//<[CDATA[
+(function() {
+		links = document.getElementsByTagName('a');
+		query = '?';
+		for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+		}
+		document.write('<script type="text/javascript" src="http://disqus.com/forums/scripting/get_num_replies.js' + query + '"></' + 'script>');
+	}());
+//]]>
+</script>
+				<br><br><a href="http://www.scripting.com/2008/04/04.html">Previous</a>&nbsp;<b>/</b>&nbsp;Next
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>

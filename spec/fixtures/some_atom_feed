@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Seed Magazine: Focus</title>
+    <link rel="alternate" type="text/html" href="http://www.seedmagazine.com/news//focus/" />
+    <link rel="self" type="application/atom+xml" href="http://www.seedmagazine.com/news/atom-focus.xml" />
+   <id>tag:www.seedmagazine.com,2008:/news//1</id>
+    <link rel="service.post" type="application/atom+xml" href="http://www.seedmagazine.com/cgi-bin/MT/mt-atom.cgi/weblog/blog_id=1" title="News Items" />
+    <updated>2008-04-07T14:46:46Z</updated>
+    
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 3.2</generator>
+ 
+<entry>
+    <title>Revolutionary Minds: Design &amp; Architecture</title>
+    <link rel="alternate" type="text/html" href="http://www.seedmagazine.com/news/2008/04/revolutionary_minds_design_arc.php" />
+    <link rel="service.edit" type="application/atom+xml" href="http://www.seedmagazine.com/cgi-bin/MT/mt-atom.cgi/weblog/blog_id=1/entry_id=1853" title="Revolutionary Minds: Design &amp; Architecture" />
+    <id>tag:www.seedmagazine.com,2008:/news//1.1853</id>
+    
+    <published>2008-04-03T04:18:48Z</published>
+    <updated>2008-04-03T16:06:58Z</updated>
+    
+    <summary>Our first online Revolutionary Minds feature profiles thinkers from the forefront of science-inspired design and architecture.</summary>
+    <author>
+        <name>Maggie Wittlin</name>
+        
+    </author>
+            <category term="Flagged: Featured on ScienceBlogs" />
+            <category term="Flagged: Focus" />
+            <category term="Flagged: For Callout on Focus Home" />
+            <category term="Flagged: For Callout on Video Home" />
+            <category term="Flagged: For Home Flash Module" />
+            <category term="Flagged: Magazine" />
+            <category term="Flagged: for ScienceBlogs" />
+            <category term="Materials &amp; Process" />
+            <category term="Revolutionary Minds" />
+            <category term="Third Culture" />
+    
+    <content type="html" xml:lang="en" xml:base="http://www.seedmagazine.com/news/">
+        <![CDATA[<p>Go to the <a href="http://revminds.seedmagazine.com/">Revolutionary Minds</a> site.</p>]]>
+        
+    </content>
+</entry>
+</feed> 
+

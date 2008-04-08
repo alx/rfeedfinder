@@ -6,12 +6,12 @@ class TestRfeedfinder < Test::Unit::TestCase
   end
   
   def test_feed
-    feed_finder "scripting.com",
+    feed_finder "http://scripting.com",
                "http://www.scripting.com/rss.xml"
   end
   
   def test_feeds
-    feeds = Rfeedfinder.feeds("flickr.com/photos/alx")
+    feeds = Rfeedfinder.feeds("http://flickr.com/photos/alx")
     assert_equal 2, feeds.size 
   end
   

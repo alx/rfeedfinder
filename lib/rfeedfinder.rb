@@ -5,7 +5,7 @@ require 'open-uri'
 require 'hpricot'
 require 'timeout'
 
-require 'rfeedfinder/version'
+require File.dirname(__FILE__) + "/rfeedfinder/version"
 
 
 class Rfeedfinder
@@ -13,6 +13,9 @@ class Rfeedfinder
   # Takes:
   # * +init_values+ (hash) containing proxy, and
   #   and user-agent information.
+  #   You can also have the script return the data
+  #   it has downloaded for the feed addresses it returns
+  #   by adding :keep_data => true to the options hash
   #   
   #   Example:
   #   
@@ -219,12 +222,12 @@ class Rfeedfinder
     
     # try with adding ending slash
     if outfeeds.empty? and fulluri !~ /\/$/
-      outfeeds = feeds(fulluri + "/", all=all, querySyndic8=querySyndic8, _recurs=_recurs)
+      outfeeds = Rfeedfinder.feeds(fulluri + "/", options)
     end
     
     # still no luck, search Syndic8 for feeds (requires xmlrpclib)
     #_debuglog('still no luck, searching Syndic8')
-    outfeeds << Rfeedfinder.getFeedsFromSyndic8(uri) if querySyndic8 and outfeeds.empty?
+    outfeeds << Rfeedfinder.getFeedsFromSyndic8(uri) if options[:querySyndic8] and outfeeds.empty?
     #outfeeds = list(set(outfeeds)) if hasattr(__builtins__, 'set') or __builtins__.has_key('set')
     
     # Verify redirection
@@ -292,7 +295,7 @@ class Rfeedfinder
   # * +true+ if the data has a rss, rdf or feed tag
   # * +false+ if the data has a html tag
   # 
-  def Rfeedfinder.isFeedData?(data)
+  def self.isFeedData?(data)
     # if no html tag and rss, rdf or feed tag, it's a feed
     # puts data
     return ((data/"html|HTML").empty? and (!(data/:rss).nil? or !(data/:rdf).nil? or !(data/:feed).nil?))
@@ -309,7 +312,7 @@ class Rfeedfinder
   # * +true+ if the uri points to a feed
   # * +false+ if not
   # 
-  def Rfeedfinder.isFeed?(uri, options)
+  def self.isFeed?(uri, options)
     uri.gsub!(/\/\/www\d\./, "//www.")
     begin
       protocol = URI.split(uri)
@@ -324,8 +327,6 @@ class Rfeedfinder
     
     return Rfeedfinder.isFeedData?(data)
   end
-
-
 
   protected
   def self.makeFullURI(uri)
@@ -428,11 +429,11 @@ class Rfeedfinder
   end
   
   def self.open_doc(link, options)
-    
+
     # Setting default values for missing options
     options[:proxy] = URI.parse(options[:proxy]) if options[:proxy]  
-    options[:user_agent] = options[:user_agent] || "Ruby/#{RUBY_VERSION} - \
-      Rfeedfinder #{Rfeedfinder::VERSION::STRING}"
+    options[:user_agent] = options[:user_agent] || "Ruby/#{RUBY_VERSION} - " + \
+      "Rfeedfinder #{Rfeedfinder::VERSION::STRING}"
     options[:from] = options[:from] || "rfeedfinder@googlegroups.com"
     options[:referer] = options[:referer] || "http://rfeedfinder.rubyforge.org/"
       
@@ -466,7 +467,7 @@ class Rfeedfinder
     end
     
     # Store the data for the URL if the user has requested it
-    options[:data][link] = data if options[:keep_data]
+    options[:data][link] = data.to_original_html if options[:keep_data]
     
     return data
   end

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.becker-posner-blog.com/">
+<title>The Becker-Posner Blog</title>
+<link>http://www.becker-posner-blog.com/</link>
+<description>A blog by Gary Becker and Richard Posner</description>
+<dc:creator></dc:creator>
+<dc:date>2008-03-30T21:47:18-06:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.2" />
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/1.0/" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/drugs_and_the_c.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/post_6.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/intelligence_do.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/comment_on_inte.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/the_erosion_of.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/individual_resp.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/william_buckley.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/post_5.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/the_new_gender_1.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/03/the_new_gender.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/02/should_universi.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/02/college_tuition.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/02/can_gun_control.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/02/gun_controlposn.html" />
+<rdf:li rdf:resource="http://www.becker-posner-blog.com/archives/2008/02/bill_gates_on_c.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.becker-posner-blog.com/archives/2008/03/drugs_and_the_c.html">
+<title>Drugs and the Cost of Medicare -Becker</title>
+<link>http://www.becker-posner-blog.com/archives/2008/03/drugs_and_the_c.html</link>
+<description><![CDATA[<p><br />
+Medicare is the federal system that covers hospitalization, physician care, drugs, and a limited amount of nursing home care for men and women over age 65. President Lyndon Johnson started it in 1965 in a modest financial way when the elderly were a small fraction of the adult population, and when drugs and surgeries to treat diseases of old age were far fewer and less complex. This program has grown in the 42 years since then into a major entitlement, with spending of almost $400 billion, which is more than 3 percent of American GDP. Of even greater concern is the projected growth in this program during the next several decades.</p>
+
+<p>If past growth in Medicare is a reasonable guide to future growth, and assuming that real GDP grows at an annual rate of two and one half percent, Medicare spending as a share of GDP will double by 2020, and increase some 3-4 times by 2050 to 10 percent or more of GDP. Dollar spending on Medicare patients would increase to over a trillion dollars by 2020. Less than half of the projected increase would be due to the further aging of the population, while the majority is the result of the expected continuing growth in spending on hospitalizations, surgeries, and drugs for the elderly of given ages. </p>
+
+<p>Much of the increased spending would occur even with the most efficient health delivery system since senior citizens along with younger adults put a high value on living longer in reasonably good health. The value placed on longer life and good health generally rises as incomes grow; indeed, economic analysis and past experience indicates that the willingness to pay for better health will increase in the future at least as rapidly as incomes do. </p>
+
+<p>Still, there is no doubt that while the American health care delivery system has many strengths, including an encouragement to medical innovation, medical costs for the elderly could be significantly reduced with no reduction in quantity and quality if various inefficiencies in the system were corrected. Numerous proposals have been advanced to make the Medicare delivery system more efficient. Former Secretary of State and of the Treasury George Shultz, along with Professor John Shoven, in an important forthcoming book, Putting our House in Order, review several of these proposed reforms and advance their own thoughtful reforms for social security as well as Medicare and Medicaid. We discussed various reforms of American spending on medical care in our blog posts on January 13 of this year, and I will not repeat them now. </p>
+
+<p>Instead, I discuss why drugs should have an important role in inefficient as well as efficient medical delivery systems. Medicare only started to cover spending on drugs in 2003, and the coverage had various defects. These include a deductible that is much too low, and a "doughnut" where there is no coverage at all for additional spending in the middle ranges of drug spending (see my discussion on Feb. 13, 2005 of these and other defects of drug coverage, with suggestions for how to make that coverage more effective). It is no surprise that spending on drugs by the elderly were not part of Medicare at the beginning since drugs were a minor part of their total medical spending in 1965. However, discoveries since then have led to various blockbuster drugs, and many less revolutionary advances in medications. These include drugs to lower blood pressure and cholesterol, to treat Parkinson's disease and other disorders of the nervous system, to help thin the blood, to overcome erectile dysfunction, to fight Aids, and to reduce testosterone to combat the spread of prostate cancer. The share of their total medical care that seniors spend on drugs has moved steadily upwards during the past 40 years, and now is more than 12 percent, and before long might approach 20 percent. </p>
+
+<p>Drugs should be part of an effective health delivery system not only because of the continual introduction of new drugs, including a growing importance of genetic based drugs, but also because drugs have a very attractive cost structure, especially for the growing elderly population. As the number of persons over age 65 increases during the next several decades, it would be useful to have a health delivery system in which costs do not rise as rapidly as the number of persons treated. Surgeries do not have this property since their cost tends to increase in proportion to the number of surgeries performed since each one takes a more or less fixed number of surgeons and supporting personnel. Hospitals also have few economies of scale with respect to the number of in-patients treated once a relatively small efficient bed size is reached.</p>
+
+<p>Drugs have a totally different cost structure. They typically have very high fixed costs of research and development and low marginal costs of adding additional users. To develop a new drug to treat depression, or Alzheimer's, or another serious medical problem, usually requires hundreds of millions of dollars in the form of spending on research and various stages of clinical trial development, including many failures before a successful treatment is developed. Once a valuable drug is developed, however, the cost of producing each pill is usually small, certainly a tiny fraction of its fixed costs of development. This means that additional users can be added with relatively little increase in total costs, and a decline in average cost per user.</p>
+
+<p>This property of the cost of producing drugs has two extremely important implications for Medicare costs. The first is that drugs are an efficient way to treat diseases and disorders that hit a large number of men and women since then the fixed costs can be spread over a larger number of users. This makes them particularly valuable to the elderly who are a growing share of the population in the United States and all other developed countries, and in many developing countries as well, including China. Moreover, the U.S. and world populations are also increasing, which increases the demand for all drugs, including those that help treat older persons.</p>
+
+<p>Drugs are also valuable in inefficient delivery systems that have trouble choking off medical treatments that would not pass a benefit-cost calculation. This would characterize systems with highly subsidized medical care, with excessively low deductibles, or with rules that cannot deny treatments to the very elderly and those close to dying who would benefit only a little from receiving treatment. Surgery, hospitalization, and close physician supervision are expensive ways to treat seniors who do not benefit much from this care since the cost of these procedures tend to rise in proportion to the number treated. On the other hand, while treating seniors with drugs sometimes also may not add much in the way of benefits, the additional cost per user would be much smaller than the average cost per user. This property of the cost of using drugs makes them particularly useful in the American medical system since that system errs on the side of generosity toward the elderly and others compared to the health care systems in most developed countries. </p>
+
+<p>This advantage of drugs in inefficient health delivery systems does not argue against the need for major reforms of Medicare to make it more efficient. It recognizes, however, the value of second-best solutions in a political environment where reforms of health care are likely to come slowly because they run up against many powerful vested interests. <br />
+</p>]]></description>
+<dc:subject></dc:subject>
+<dc:creator>becker</dc:creator>
+<dc:date>2008-03-30T21:47:18-06:00</dc:date>
+</item>
+
+</rdf:RDF>

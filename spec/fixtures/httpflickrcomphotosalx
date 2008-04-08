@@ -1,0 +1,1156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>Flickr: Fotos de Alx</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="fotografía, fotografía digital, teléfonos con cámara, cámara, fotografía como pasatiempo, foto, cámara digital, compactflash, smartmedia, cámaras, canon, nikon, olympus, fujifilm">	
+	<meta name="description" content="Flickr es casi con seguridad la mejor aplicación de todo el mundo para administrar y compartir fotos en línea. Presume de tus fotos favoritas ante el mundo, muéstrales fotos a tus familiares y amigos con seguridad y privacidad, o publica en un blog las fotos que tomas con un teléfono con cámara.">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta name="viewport" content="width=820" />
+	<link href="http://l.yimg.com/www.flickr.com/css/c_flickr.css.v1.818.14" rel="stylesheet" type="text/css">
+  	<link rel="alternate"	type="application/atom+xml" title="Flickr: Fotos de Alx Atom feed" href="http://api.flickr.com/services/feeds/photos_public.gne?id=36521964938@N01&amp;lang=es-us&amp;format=atom">
+	<link rel="alternate"	type="application/rss+xml" title="Flickr: Fotos de Alx RSS feed" href="http://api.flickr.com/services/feeds/photos_public.gne?id=36521964938@N01&amp;lang=es-us&amp;format=rss_200">
+
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+
+<link href="http://l.yimg.com/www.flickr.com/css/c_person.css.v1.39.14" rel="stylesheet" type="text/css" />
+
+
+<!--[if LT IE 7]>
+<style type="text/css">
+.trans_png {
+	behavior: url('/javascript/pngbehavior.htc');
+	border:0;
+}
+</style>
+<![endif]-->
+
+		<link href="http://l.yimg.com/www.flickr.com/css/intl/c_es-us.css.v1.2.14" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+var global_magisterLudi = 'c48121fc6c72492edae44f8b481ee5c8',
+global_auth_hash = 'c010a76bf94dddde6e4466afb3cc9823',
+global_auth_token = '',
+global_flickr_secret = 'd874cec64b1fd9a1',
+global_slideShowVersion = '1.6',
+global_slideShowCodeVersion = '1.38',
+global_slideShowVersionV2 = '1.2',
+global_slideShowCodeVersionV2 = '1.236',
+global_slideShowTextVersion = '1.4',
+global_nsid = '',
+global_ispro = 0,
+global_dbid = '',
+global_name ='',
+global_expire ='',
+global_icon_url ='http://l.yimg.com/www.flickr.com/images/buddyicon.jpg#',
+global_tag_limit = '75',
+global_collection_depth_limit = 5,
+global_contact_limit = '3000',
+global_eighteen = 1,
+global_group_limit = 10,
+global_photos_ids_limit = 20,
+disable_stewart = 1;
+disable_geo = 0;
+var global_rper = 0;
+
+var global_intl_lang = 'es-us';
+
+var _photo_root = 'http://farm.static.flickr.com/';
+var _site_root = 'http://www.flickr.com';
+var _images_root = 'http://l.yimg.com/www.flickr.com/images';
+var _intl_images_root = 'http://l.yimg.com/www.flickr.com/images/es-us';
+
+</script>
+
+<script type="text/javascript" src="http://l.yimg.com/www.flickr.com/javascript/global.js.v1.439.14"></script>
+<script type="text/javascript">
+
+</script>
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://l.yimg.com/www.flickr.com/javascript/fold_main.js.v1.2.1.2.1.3.1.2.1.2.1.4.1.138.1.3.1.8.1.92.1.5.1.6.1.23.1.8.1.33.1.80.1.3.1.43.1.7.1.111.14"></script>
+
+
+
+<script type="text/javascript" src="http://l.yimg.com/www.flickr.com/javascript/output_es-us_e7d087b7dfcabdef5764f510db999e4b.js"></script>
+
+<script type="text/javascript">
+
+YAHOO.util.Event.addListener(window, 'load', F._window_onload);
+YAHOO.util.Event.addListener(window, 'resize', F._window_onresize);
+YAHOO.util.Event.addListener(window, 'blur', F._window_onblur);
+YAHOO.util.Event.addListener(window, 'focus', F._window_onfocus);
+YAHOO.util.Event.addListener(window, 'unload', F._window_onunload);
+
+</script>
+
+
+
+<script type="text/javascript">
+var global_joinDate = F.convert_unix_time_stamp('');
+var global_time_stamp = '080407152139';
+
+
+// Dean Edwards/Matthias Miller/John Resig
+
+/* for Mozilla/Opera9 */
+if (document.addEventListener) {
+    document.addEventListener("DOMContentLoaded", F._window_onload_dom, false);
+}
+
+/* for Internet Explorer */
+/*@cc_on @*/
+/*@if (@_win32)
+    document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
+    var script = document.getElementById("__ie_onload");
+    script.onreadystatechange = function() {
+        if (this.readyState == "complete") {
+            F._window_onload_dom(); // call the onload handler
+        }
+    };
+/*@end @*/
+
+/* for Safari */
+if (/WebKit/i.test(navigator.userAgent)) { // sniff
+    F.onload_dom_timer = setInterval(function() {
+        if (/loaded|complete/.test(document.readyState)) {
+            F._window_onload_dom(); // call the onload handler
+        }
+    }, 10);
+}
+
+
+
+
+
+</script>
+
+<script type="text/javascript" src="http://us.js2.yimg.com/us.js.yimg.com/lib/map/js/api/ymapapi_3_8_0_2.js"></script> 
+<script type="text/javascript" src="http://l.yimg.com/www.flickr.com/javascript/photo_mini_map.js.v1.36.14"></script>
+
+
+
+
+<link rel="openid2.provider" href="https://open.login.yahooapis.com/openid/op/auth" /></head>
+
+<body>
+
+<div id="beacon"><img src="http://geo.yahoo.com/f?s=792600013&t=21891178e7b73c33835706a7aa832bc9&fl_ev=0&lang=es&intl=ar" width="0" height="0" alt="" /></div>
+
+<a name="top"></a>
+
+
+
+
+
+
+
+
+
+<div class="TopBar" id="TopBar">
+	<table cellspacing="0" class="Header" border="0">
+		<tr>
+			<td class="FlickrLogo">
+				<a href="/">
+								<img src="http://l.yimg.com/www.flickr.com/images/flickr_logo_gamma.gif.v1.5.14" id="FlickrLogo" width="98" height="26" alt="Logotipo de Flickr. Si haces clic en él, irás a la página de inicio." />
+								</a>
+					</td>
+			<td class="Status">
+			        
+                                
+		                        
+				No has iniciado sesión
+				&nbsp;&nbsp;&nbsp;
+				<a href="/signin/">Iniciar sesión</a>
+				&nbsp;&nbsp;
+				<a href="/help/">Ayuda</a> 							
+				</td>
+		</tr>
+	</table>
+	<table cellspacing="0" class="NavBar" border="0">
+		<tr>
+			<td class="Primary">
+		
+<div id="candy_nav_button_bar" class="candy_button_bar">
+	<ul class="site_nav_menu_buttons">
+	        
+		<li class="no_menu_li"><span><a href="/">Inicio</a></span></li>
+				
+		
+		<li class="no_menu_li"><span><a href="/tour/" alt="Haz la visita de Flickr">La visita</a></span></li>
+		
+		<li class="no_menu_li"><span><a href="/signup/" alt="Crea una cuenta gratuita">Crear cuenta</a></span></li>
+
+
+
+		<li class="menu_li" id="candy_nav_button_explore"><span><a href="/explore/" alt="Explorar Flickr">Explorar</a> <img src="http://l.yimg.com/www.flickr.com/images/site_nav_caret_split_default.png" class="nav_button_caret" width="18" height="15" alt="Más opciones"></span>
+		<div class="candy_menu" id="candy_nav_menu_explore">
+			<a  href="/explore/">Página Explorar</a>
+			<a href="/explore/interesting/7days/">Interesantes de los últimos 7 días</a>
+			<a href="/explore/interesting/2008/04/">Calendario</a>
+			<a href="/explore/interesting/2007/04/">Hace exactamente un año</a>
+			
+			<a title="Fotos en un mapa" href="/map/" class="menu_item_line_above">Mapa del mundo</a>			<a href="/places/">Lugares</a>			
+   			<a href="/cameras/">Buscador de cámaras</a>   		   
+			<a href="/photos/tags/" class="menu_item_line_above">Las etiquetas más populares</a>
+			<a href="/photos/">Las fotos más recientes</a>
+			<a href="/creativecommons/">Creative Commons</a>
+			
+			<a href="http://blog.flickr.com/" class="menu_item_line_above">FlickrBlog</a>
+			
+			<a href="/do/more/" class="menu_item_line_above">Haz más cosas con tus fotos</a>
+			<a href="/services/">Servicios de Flickr</a>
+		</div>
+		</li>
+
+	</ul>
+</div>
+<script type="text/javascript">F.decorate(_ge('candy_nav_button_bar'), F._nav_button_bar).bar_go_go_go();</script>	
+
+
+	
+			</td>
+
+
+
+
+		
+														
+	
+
+<td id="search_header_form_td">
+	<form action="/search/" method="get" onsubmit="_do_header_search('36521964938@N01', '', '/search/', '');return false;" id="headersearchform">
+		<input name="q" id="header_search_q" type="text" class="Box" value="Buscar en las fotos de Alx">
+		<input name="w" type="hidden" value="36521964938@N01">
+		<input name="m" type="hidden" value="">
+		<input name="s" type="hidden" value="">
+		<span id="headersearchbutton1"><input value="Buscar" type="image" src="http://l.yimg.com/www.flickr.com/images/header_search_button.png" /></span>
+	</form>
+</td>
+<td id="search_header_button_td" width="82">
+
+	<div id="candy_search_button_bar" class="candy_button_bar" style="">
+		<ul class="site_nav_menu_buttons">
+		<li class="menu_li" id="candy_nav_button_search"><span><a href="/search/" onclick="_do_header_search('36521964938@N01', '', '/search/', '');return false;">Buscar</a> <img src="http://l.yimg.com/www.flickr.com/images/site_nav_caret_split_default.png" class="nav_button_caret" width="18" height="15" alt="Más opciones"></span>
+		<div class="candy_menu" id="candy_nav_menu_search">
+			<a title="Las fotos de todos" href="/search/" onclick="_do_header_search('all', ''); return false;">Las fotos de todos</a>
+			<a title="Groups" href="/search/groups/" onclick="_do_header_search('', '', '/search/groups/'); return false;">Grupos</a>
+			<a title="Miembros de Flickr" href="/search/people/" onclick="_do_header_search('', 'names', '/search/people/'); return false;">Miembros de Flickr</a>
+			<a title="Un lugar" href="/map/" onclick="_do_header_search('location', '', '/map/'); return false;">Un lugar</a>							<a class="menu_item_line_above" title="Alx Photos" href="/search/" onclick="_do_header_search('36521964938@N01', ''); return false;"><b>&#183;</b> Fotos de Alx</a>
+			
+		</div>
+		</li>
+		</ul>
+	</div>
+	
+	<script type="text/javascript">F.decorate(_ge('candy_nav_button_search'), F._nav_button).button_go_go_go();</script>
+	
+	<script type="text/javascript">
+	var b1 = _ge('headersearchbutton1');
+	b1.parentNode.removeChild(b1);
+	
+	_ge('search_header_form_td').style.paddingBottom = '2px';
+	
+	_ge('candy_search_button_bar').style.display = 'block';
+	
+	
+	var f = _ge('headersearchform');
+	
+	if (f.q.value == 'Buscar en las fotos de Alx') f.q.style.color = '#999';
+	
+	f.q.onfocus = function() {
+		if (this.value == 'Buscar en las fotos de Alx') this.value = '';
+		this.style.color = '#222';
+		if (window.map) map._disableKeys = true;
+	}
+	
+	f.q.onblur = function() {
+		if (this.value != '') return;
+		this.style.color = '#999';
+		this.value = 'Buscar en las fotos de Alx';
+		if (window.map) map._disableKeys = false;
+	}
+	
+	var _do_header_search = function(w, m, action, s) {
+		var f = _ge('headersearchform');
+		if (f.q.value == 'Buscar en las fotos de Alx') f.q.value = '';
+		f.q.value = f.q.value.trim();
+		
+		
+		// do location search if the location search window is open, or if w == 'location'
+		if (w == 'location' || (_ge('loc_search_div') && _ge('loc_search_div').style.display != 'none')) {
+			if (!_ge('loc_search_div')) {
+				// create the location search crap!
+				var div 	= document.createElement('div');
+				div.id = 'loc_search_div';
+				document.body.appendChild(div);
+				
+				var page_type = 'site';
+				F.decorate(div, F._loc_search_div).div_go_go_go(page_type);
+			}
+			try {_ge('loc_search_div').div_do_loc_search()} catch(err) {writeDebug(err)};return false;
+			return;
+		}
+		
+		
+		
+		
+		f.w.value = w;
+		f.m.value = (m) ? m : '';
+		f.s.value = (s) ? s : '';
+		f.action = (action) ? action : '/search/';
+		
+		if (f.m.value == 'tags' && f.q.value && f.q.value.indexOf(' ') == -1) {
+			var alias = 'alx';
+			alias = (alias) ? alias : f.w.value;
+			var turl = '/photos/';
+			if (f.w.value == 'all') {
+				turl+= 'tags/'+encodeURIComponent(f.q.value); 
+			} else {
+				turl+= alias+'/tags/'+encodeURIComponent(f.q.value); 
+			}
+			document.location = turl;
+			return;
+		}
+		
+		var qsA = ['q='+encodeURIComponent(f.q.value)];
+		if (f.w.value) qsA.push('w='+encodeURIComponent(f.w.value));
+		if (f.m.value) qsA.push('m='+encodeURIComponent(f.m.value));
+		if (f.s.value) qsA.push('s='+encodeURIComponent(f.s.value));
+		
+		var surl = f.action+'?'+qsA.join('&');
+		document.location = surl;
+	}
+	
+
+	</script>	
+
+</td>	
+		</tr>		
+	</table>
+</div>
+
+<div id="Main" >
+
+
+
+<table width="800" cellspacing="0" id="SubNav">
+	<tr>
+		<td class="Buddy">
+			<a href="/photos/alx/"><img src="http://farm1.static.flickr.com/4/buddyicons/36521964938@N01.jpg?1193492472#36521964938@N01" alt="Icono de Alx" width="48" height="48" /></a>
+		</td>
+		<td class="Section">
+			<h1>
+	    			Fotos de Alx
+										&nbsp;<a href="/upgrade/"><img src="http://l.yimg.com/www.flickr.com/images/badge_pro.gif.v2" width="20" height="12" alt="Usuario pro" align="baseline" class="Pro" /></a>
+													
+			</h1>
+			
+			<p class="Links">
+																											<a href="/photos/alx/sets/">Álbumes </a>				<img src="http://l.yimg.com/www.flickr.com/images/subnavi_dots.gif" alt="" width="1" height="11" alt="">
+				<a href="/photos/alx/tags/">Etiquetas</a>				<img src="http://l.yimg.com/www.flickr.com/images/subnavi_dots.gif" alt="" width="1" height="11" alt="">
+	
+							<a href="/photos/alx/map/">Mapa</a>				<img src="http://l.yimg.com/www.flickr.com/images/subnavi_dots.gif" alt="" width="1" height="11" alt="">
+						
+				<a href="/photos/alx/archives/">Archivos</a>				<img src="http://l.yimg.com/www.flickr.com/images/subnavi_dots.gif" alt="" width="1" height="11" alt="">
+				<a href="/photos/alx/favorites/">Favoritas</a>				<img src="http://l.yimg.com/www.flickr.com/images/subnavi_dots.gif" alt="" width="1" height="11" alt="">
+				<a href="/people/alx/" rel="me">Perfil</a>
+			</p>
+			
+		</td>
+		<td class="Extras">
+				
+			
+												<div class="SlideShow nowrap">
+	<span style="font-size: 13px;"><a href="/photos/alx/show/"><b>Ver como presentación</b></a>
+	(<a href="/photos/alx/show/" onclick="return pop_show(this);" title="abrir en una ventana nueva"><img src="http://l.yimg.com/www.flickr.com/images/icon_new_window.gif" width="13" height="10" style="border: none;" alt="abrir en una ventana nueva"></a>)</span>		
+</div>							
+		
+			
+			
+			
+					
+					
+			<img src="http://l.yimg.com/www.flickr.com/images/spaceball.gif" alt="spacer!" width="200" height="1" />
+		</td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+	var photostream_owner_nsid = "36521964938@N01";
+</script>
+
+
+	<div id="div_mini_map_frame" style="position: absolute; left:-9500px">
+	<div id="div_mini_map_frame2">
+	<div id="map_links1" style="position: absolute; top:7px; left:9px; font-family: Arial; font-size: 11px; color: #999"></div>
+	<div id="div_mini_map_frame3">
+	<div id="map" style="position: absolute; top:3px; left:3px; width:510px; height:250px;"></div>
+	</div>
+	<div id="map_links2" style="position: absolute; bottom:7px; left:9px; width:360px; font-family: Arial; font-size: 11px; color: #999">
+	</div>
+	<div id="pretty_lat_long" style="position: absolute; right:7px; bottom:7px; font-family: Arial; font-size: 11px; font-style: italic; color: #999">pretty lat/long</div>
+	</div>
+	<a id="close_button" style="height:16px; overflow:visible"></a>
+	</div>
+
+
+	
+	<table width="100%" cellspacing="0" cellpadding="0" class="PhotoStream">
+		<tr valign="top">
+			<td width="100%" valign="top" align="center" class="PhotosColumn">
+
+
+<script type="text/javascript" src="http://l.yimg.com/www.flickr.com/javascript/photo_cols.js.v1.3.14"></script>
+
+<table width="100%" cellspacing="0">
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2355662088">
+					<h4>Pine fruit</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355660760">
+					<h4>huevos basket</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355659454">
+					<h4>High to reach</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2355662088">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355662088/" title="Pine fruit"><img src="http://farm4.static.flickr.com/3112/2355662088_b461220383_m.jpg" width="240" height="180" alt="Pine fruit"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355662088/" class="Plain">1 comentario</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355660760">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355660760/" title="huevos basket"><img src="http://farm3.static.flickr.com/2108/2355660760_f629a81f7a_m.jpg" width="240" height="180" alt="huevos basket"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355660760/" class="Plain">1 comentario</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355659454">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355659454/" title="High to reach"><img src="http://farm3.static.flickr.com/2262/2355659454_490cd896e6_m.jpg" width="180" height="240" alt="High to reach"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355659454/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2354826045">
+					<h4>A new field</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355654190">
+					<h4>View on the lake</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355653020">
+					<h4>Linea de huevos</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2354826045">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354826045/" title="A new field"><img src="http://farm3.static.flickr.com/2280/2354826045_bc85a566ff_m.jpg" width="240" height="180" alt="A new field"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354826045/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355654190">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355654190/" title="View on the lake"><img src="http://farm3.static.flickr.com/2270/2355654190_5fa0cd4977_m.jpg" width="240" height="180" alt="View on the lake"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355654190/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355653020">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355653020/" title="Linea de huevos"><img src="http://farm3.static.flickr.com/2060/2355653020_eab9d5c15d_m.jpg" width="180" height="240" alt="Linea de huevos"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355653020/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2355651408">
+					<h4>Hidden place</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2354818639">
+					<h4>Pascual Buscadores</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2354816017">
+					<h4>Perfect nest</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2355651408">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355651408/" title="Hidden place"><img src="http://farm4.static.flickr.com/3159/2355651408_5174116d53_m.jpg" width="240" height="180" alt="Hidden place"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355651408/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2354818639">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354818639/" title="Pascual Buscadores"><img src="http://farm4.static.flickr.com/3145/2354818639_317cba7b67_m.jpg" width="180" height="240" alt="Pascual Buscadores"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354818639/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2354816017">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354816017/" title="Perfect nest"><img src="http://farm4.static.flickr.com/3234/2354816017_e4f484b6a0_m.jpg" width="180" height="240" alt="Perfect nest"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354816017/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2354814001">
+					<h4>Huevos in a tree</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2354792955">
+					<h4>Huevos de brunch</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355551240">
+					<h4>Rubik</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2354814001">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354814001/" title="Huevos in a tree"><img src="http://farm3.static.flickr.com/2049/2354814001_69afffc49b_m.jpg" width="240" height="180" alt="Huevos in a tree"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354814001/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2354792955">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354792955/" title="Huevos de brunch"><img src="http://farm3.static.flickr.com/2355/2354792955_2d975433c1_m.jpg" width="240" height="180" alt="Huevos de brunch"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354792955/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355551240">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355551240/" title="Rubik"><img src="http://farm3.static.flickr.com/2087/2355551240_f1ed5883b8_m.jpg" width="180" height="240" alt="Rubik"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355551240/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2355549642">
+					<h4>Gallina</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2354716325">
+					<h4>Bonhomme</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2355546448">
+					<h4>5</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2355549642">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355549642/" title="Gallina"><img src="http://farm3.static.flickr.com/2413/2355549642_eb1b170423_m.jpg" width="180" height="240" alt="Gallina"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355549642/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2354716325">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2354716325/" title="Bonhomme"><img src="http://farm4.static.flickr.com/3274/2354716325_06f0db5d04_m.jpg" width="180" height="240" alt="Bonhomme"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2354716325/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2355546448">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2355546448/" title="5"><img src="http://farm4.static.flickr.com/3009/2355546448_9db2809422_m.jpg" width="240" height="180" alt="5"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/23/" class="Plain">23 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2355546448/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+	<tr valign="bottom">
+		<td>
+			<div class="StreamView" id="sv_title_2322967500">
+					<h4>Hamaca de obras</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2322148173">
+					<h4>El cthulhu</h4>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_title_2322963060">
+					<h4>Giron playa</h4>				</div>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>
+			<div class="StreamView" id="sv_body_2322967500">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2322967500/" title="Hamaca de obras"><img src="http://farm3.static.flickr.com/2005/2322967500_b4a7f33612_m.jpg" width="180" height="240" alt="Hamaca de obras"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/09/" class="Plain">9 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2322967500/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2322148173">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2322148173/" title="El cthulhu"><img src="http://farm3.static.flickr.com/2065/2322148173_65a2fbe428_m.jpg" width="240" height="180" alt="El cthulhu"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/09/" class="Plain">9 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2322148173/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+		<td>
+			<div class="StreamView" id="sv_body_2322963060">
+				
+	<p class="Photo" style="position:relative">
+	    		<span class="photo_container pc_m"><a href="/photos/alx/2322963060/" title="Giron playa"><img src="http://farm3.static.flickr.com/2199/2322963060_24f6f009c8_m.jpg" width="180" height="240" alt="Giron playa"  class="pc_img" /></a></span>
+			</p>
+
+    
+
+	<p class="Privacy">
+	<img src="http://l.yimg.com/www.flickr.com/images/icon_public.gif" alt="Esta foto es pública" title="Esta foto es pública" width="15" height="15" class="absmiddle" />
+
+
+<span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/
+deed.es_AR"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_attribution_small.gif" border="0" alt="Atribución" title="Atribución"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_noncomm_small.gif"  border="0" alt="No comercial" title="No comercial"><img src="http://l.yimg.com/www.flickr.com/images/cc_icon_sharealike_small.gif"  border="0" alt="Compartir bajo la misma licencia" title="Compartir bajo la misma licencia"></a></span><span class="ccTerm">Algunos derechos reservados.</span>
+
+	
+	</p>
+	<p class="Do">
+		Cargada el <a href="/photos/alx/archives/date-posted/2008/03/09/" class="Plain">9 de mar, 2008</a>
+	</p>
+	<p class="Activity">
+		<a href="/photos/alx/2322963060/" class="Plain">0 comentarios</a> 
+								
+	</p>				</div>
+		</td>
+	</tr>
+</table>
+
+
+
+				<br clear="all" />
+			</td>
+		</tr>
+	</table>
+
+<div class="Pages">
+	<div class="Paginator">
+		<span class="AtStart">&lt; Anterior</span>
+			<span class="this-page">1</span>
+			<a href="/photos/alx/page2/">2</a>
+			<a href="/photos/alx/page3/">3</a>
+			<a href="/photos/alx/page4/">4</a>
+			<a href="/photos/alx/page5/">5</a>
+			<a href="/photos/alx/page6/">6</a>
+			<a href="/photos/alx/page7/">7</a>
+			<span class="break">...</span>
+			<a href="/photos/alx/page203/">203</a>
+			<a href="/photos/alx/page204/">204</a>
+		<a href="/photos/alx/page2/" class="Next">Siguiente &gt;</a>
+	</div>
+	<div class="Results">(3.676 fotos)</div>
+</div>	
+
+
+			<div id="Feeds">
+			<div id="AtomRSS">
+				<a href="http://api.flickr.com/services/feeds/photos_public.gne?id=36521964938@N01&lang=es-us&amp;format=rss_200" title="Feed RSS 2.0"><img src="http://l.yimg.com/www.flickr.com/images/feed-icon-16x16.png" width="16" height="16" alt="Suscríbete a un montón de cosas en esta página..." class="absmiddle" /></a>
+				Subscríbete a las fotos de Alx &ndash; <span style="color:#ccc"><a href="http://api.flickr.com/services/feeds/photos_public.gne?id=36521964938@N01&lang=es-us&amp;format=rss_200" title="Feed RSS 2.0">Última actualización</a> | <a href="http://api.flickr.com/services/feeds/geo/?id=36521964938@N01&amp;lang=es-us&amp;format=rss_200" title="Feed geoRSS">geoFeed</a> | <a href="http://api.flickr.com/services/feeds/geo/?id=36521964938@N01&amp;lang=es-us&amp;format=kml_nl" title="Enlace de red a Google Earth">KML</a></span>
+			</div>
+			<div id="AddToYahoo"><a href="http://us.rd.yahoo.com/my/atm/Flickr/Users/*http://add.my.yahoo.com/content?lg=es&url=http%3A%2F%2Fapi.flickr.com%2Fservices%2Ffeeds%2Fphotos_public.gne%3Fid%3D36521964938%40N01%26lang%3Des-us%26format%3Drss_200"><img src="http://l.yimg.com/www.flickr.com/images/es-us/my_yahoo.gif" alt="Agregar a Mi Yahoo!" /></a></div>
+		</div>
+		
+
+</div>
+
+<br id="MainFooterClear" clear="all" />
+
+<div id="FooterWrapper">
+<div class="Footer">
+		
+<table class="Jump" cellspacing="0">
+	        
+                <tr>
+                <th class="To">
+                        Tú
+                </th>
+                <td>
+			<a href="/signin/">Iniciar sesión</a> |  
+			<a href="/signup/">Crear tu cuenta gratuita</a>	
+                </td>
+        </tr>
+                <tr>
+                <th class="To">
+                        <a href="/explore/" class="Plain">Explorar</a>
+                </th>
+                <td>
+			<a href="/places/">Lugares</a> | 
+			<a href="/explore/interesting/7days/">Últimos 7 días</a> | 
+			<a href="/explore/interesting/2008/04/">Este mes</a> | 
+			<a href="/photos/tags/">Las etiquetas más populares</a> | 
+			<a href="/creativecommons/">Creative Commons</a> | 
+			<a href="/search/">Buscar</a>			  
+                </td>
+        </tr>
+        <tr>
+                <th class="To">
+                        <a href="/help/" class="Plain">Ayuda</a>
+                </th>
+                <td>
+                        <a href="/guidelines.gne">Normas de la comunidad</a> | 
+                        <a href="/help/forum/">El foro de ayuda</a> |
+
+                        <a href="/help/faq/">Preguntas frecuentes</a> | 
+                                                <a href="/sitemap.gne">Mapa del sitio</a> | 
+                        <a href="/help/contact/">Ayuda por correo electrónico</a>		
+                </td>
+        </tr>
+</table>
+<div class="Delicious">
+<a href="/send?photostream=36521964938@N01" id="send_to_friend_foot_link"><img src="http://l.yimg.com/www.flickr.com/images/send_to_a_friend.gif" width="10" height="10" alt="Enviar a un amigo" /> &nbsp;Enviar a un amigo</a><br />
+</div>			        
+	
+	<p class="About">
+	        
+                                                        <span class="yahoo_logo">
+                                <a href="http://www.yahoo.com"><img src="http://l.yimg.com/www.flickr.com/images/logo_yahoo_company.gif.v1.1.14" width="99" height="11" alt="Flickr, una compañía de Yahoo!" /></a>
+                                </span>
+                        		
+		<a href="http://blog.flickr.net/es">Blog de Flickr</a> | 
+		<a href="/about/">Acerca de Flickr</a> | 
+		<a href="/terms.gne" onClick="window.open('/terms.gne','TOC','status=yes,scrollbars=yes,resizable=yes,width=600,height=480'); return false">Condiciones de uso</a> | 
+		<a href="/privacy_policy.gne">Tu privacidad</a> | 
+		<a href="http://ar.docs.yahoo.com/info/copyright.html" target="_blank">Propiedad Intelectual</a> |		<a id="ft-report-abuse" href="/report_abuse.gne">Reportar abusos</a>
+		
+		<p class="LanguageSelector">
+        
+                                        
+	<span>
+		<a href="/change_language.gne?lang=zh-hk&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" class="image_link" id="lang_zh-hk"><img src="http://l.yimg.com/www.flickr.com/images/lang_zh-tw_11px_default.png" width="45" height="13" id="langselect_zh-hk" alt="繁體中文"></a>		<b>|</b>
+		<a href="/change_language.gne?lang=de-de&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" >Deutsch</a>
+		<b>|</b>
+		<a href="/change_language.gne?lang=en-us&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" >English</a>
+		<b>|</b>
+		<a href="/change_language.gne?lang=es-us&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" class="selected">Espa&#241;ol</a>
+		<b>|</b>
+		<a href="/change_language.gne?lang=fr-fr&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" >Fran&#231;ais</a>
+		<b>|</b>
+		<a href="/change_language.gne?lang=ko-kr&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" class="image_link" id="lang_ko-kr"><img src="http://l.yimg.com/www.flickr.com/images/lang_ko-kr_11px_default.png" width="23" height="13" id="langselect_ko-kr" alt="한글"></a>		<b>|</b>
+		<a href="/change_language.gne?lang=it-it&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" >Italiano</a>
+		<b>|</b>
+		<a href="/change_language.gne?lang=pt-br&magic_cookie=c010a76bf94dddde6e4466afb3cc9823" >Portugu&#234;s</a>
+	</span>
+	
+		<script type="text/javascript">if (_ge('langselect_zh-hk')) F.decorate(_ge('langselect_zh-hk'), F._link_button).button_go_go_go();</script>
+	<script type="text/javascript">if (_ge('langselect_ko-kr')) F.decorate(_ge('langselect_ko-kr'), F._link_button).button_go_go_go();</script>
+	Copyright © 2008 Yahoo! Todos los derechos reservados.
+	</p>  	</p>
+	
+
+<br />
+
+	
+</div>
+</div>
+<div style="background: #000; color: #0f0; text-align: left; font-family: &quot;Courier New&quot;, Courier, monospace;"></div>
+
+
+
+
+
+<script type="text/javascript">
+try{
+	if (window.personmenu_init) personmenu_init(0);
+} catch(er) {}
+
+</script>
+
+
+
+
+<!-- page generated by www47 (in mud) at 15:21:39 04/07/08 in 210ms -->
+
+
+<script src="http://us.adserver.yahoo.com/a?f=792600013&p=flickr&l=FOOT9&c=r"></script>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
