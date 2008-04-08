@@ -224,12 +224,7 @@ class Rfeedfinder
     if outfeeds.empty? and fulluri !~ /\/$/
       outfeeds = Rfeedfinder.feeds(fulluri + "/", options)
     end
-    
-    # still no luck, search Syndic8 for feeds (requires xmlrpclib)
-    #_debuglog('still no luck, searching Syndic8')
-    outfeeds << Rfeedfinder.getFeedsFromSyndic8(uri) if options[:querySyndic8] and outfeeds.empty?
-    #outfeeds = list(set(outfeeds)) if hasattr(__builtins__, 'set') or __builtins__.has_key('set')
-    
+        
     # Verify redirection
     Rfeedfinder.verifyRedirect(outfeeds)
     
@@ -411,21 +406,6 @@ class Rfeedfinder
      end
     end
     return feedlist
-  end
-
-  def self.getFeedsFromSyndic8(uri)
-    feeds = []
-    begin
-      server = Syndic8.new
-      feedids = server.find_feeds(uri)
-      infolist = server.feed_info(feedids, ['headlines_rank','status','dataurl'])
-      infolist.sort_by{|feedInfo| feedInfo[:headlines_rank]}
-      infolist.each do |feed|
-        feeds << feed[:dataurl] if feed[:status]=='Syndicated'
-      end
-    rescue
-    end
-    return feeds
   end
   
   def self.open_doc(link, options)
