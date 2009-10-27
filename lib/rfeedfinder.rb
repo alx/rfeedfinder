@@ -323,7 +323,7 @@ class Rfeedfinder
   end
 
   def self.getLinks(data, baseuri)
-    return Rfeedfinder.searchLinks(data, baseuri, "[@rel='alternate'][@type*='xml'][@href*='http']")
+    return Rfeedfinder.searchLinks(data, baseuri, "[@rel='alternate'][@type*='xml' | @type* = 'rss+xml'][@href*='http']")
   end
 
   def self.getALinks(data, baseuri)
